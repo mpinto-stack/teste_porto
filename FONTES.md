@@ -1,0 +1,15 @@
+# Fontes base usadas nesta versão
+- Visit Porto — praias do Porto
+- Câmara Municipal de Matosinhos — praias
+- Câmara Municipal de Vila Nova de Gaia — praias
+- Turismo de Espinho — praias e natureza
+- Turismo Vila do Conde — praias
+- Câmara Municipal da Póvoa de Varzim — praias Bandeira Azul e praias acessíveis
+- Visite Esposende — praias
+- Câmara Municipal de Viana do Castelo — listas de praias galardoadas
+- Câmara Municipal de Ovar — praias
+- Câmara Municipal de Aveiro — Praia de São Jacinto
+- Câmara Municipal de Ílhavo — zonas costeiras
+- Câmara Municipal de Vagos — zonas balneares
+- Turismo Centro de Portugal — Praia de Mira e Praia da Tocha
+- Câmara Municipal da Figueira da Foz — praias galardoadas

@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0f4c81">
+  <meta name="description" content="Escolhe a melhor praia até cerca de 2 horas do Estádio do Dragão com ajuda do vento, temperatura, água e distância.">
+  <title>Praias do Porto Explorer</title>
+  <link rel="icon" type="image/png" href="logo_site.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+  <style>
+    :root{--bg:#eef5ff;--bg2:#f8fafc;--text:#0f172a;--muted:#475569;--line:#dbe5f2;--card:#ffffffee;--blue:#1d4ed8;--blue2:#0f4c81;--green:#0f766e;--greenSoft:#ccfbf1;--orange:#c2410c;--orangeSoft:#ffedd5;--pink:#9d174d;--pinkSoft:#fce7f3;--shadow:0 14px 34px rgba(15,23,42,.12);--yellow:#b45309;--yellowSoft:#fef3c7;--red:#991b1b;--redSoft:#fee2e2}
+    *{box-sizing:border-box}html,body{margin:0;height:100%;font-family:Inter,Arial,sans-serif;color:var(--text);background:linear-gradient(180deg,var(--bg) 0%,var(--bg2) 100%)}body{padding-bottom:calc(78px + env(safe-area-inset-bottom))}a{color:var(--blue2);text-decoration:none}a:hover{text-decoration:underline}
+    .offline-banner{display:none;position:sticky;top:0;z-index:50;background:#111827;color:#fff;padding:10px 14px;font-size:13px;text-align:center}
+    .wrap{max-width:1740px;margin:0 auto;padding:14px}.section{margin-top:16px}.panel{background:var(--card);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.72);border-radius:26px;box-shadow:var(--shadow)}
+    .hero{background:linear-gradient(135deg,#0f4c81 0%,#1d4ed8 55%,#0ea5e9 100%);color:#fff;padding:18px;position:relative;overflow:hidden}.hero:before,.hero:after{content:'';position:absolute;border-radius:999px;background:rgba(255,255,255,.10)}.hero:before{width:220px;height:220px;right:-20px;top:-50px}.hero:after{width:280px;height:280px;right:110px;bottom:-190px}
+    .hero-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:14px;align-items:start;position:relative;z-index:1}.hero-left{display:grid;gap:12px}.hero-title{display:flex;gap:14px;align-items:flex-start}.hero-logo{width:min(250px,28vw);height:auto;display:block;filter:drop-shadow(0 10px 18px rgba(0,0,0,.10))}.hero-text h1{margin:0;font-size:clamp(32px,4vw,56px);line-height:1.02;letter-spacing:-.05em}.sub{font-size:12px;opacity:.95}.hero-actions{display:flex;gap:8px;flex-wrap:wrap}.hero-btn{border:1px solid rgba(255,255,255,.28);background:rgba(255,255,255,.14);color:#fff;border-radius:999px;padding:9px 12px;font-size:12px;font-weight:800;cursor:pointer}
+    .status-note:empty{display:none}.status-note{margin-top:4px;opacity:.95}.hero-actions{margin-top:6px}.hero-text h1{max-width:11ch}.brief-link,.inline-beach-link{color:var(--blue2);font-weight:800;text-decoration:none;border-bottom:1px dashed rgba(15,76,129,.28)}.brief-link:hover,.inline-beach-link:hover{text-decoration:none;border-bottom-color:rgba(15,76,129,.7)}.brief-line a{display:inline-flex;align-items:center;gap:4px}.panel h2{letter-spacing:-.03em}
+    .stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.stat{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.22);backdrop-filter:blur(10px);border-radius:20px;padding:14px}.stat .k{font-size:12px;opacity:.88;margin-bottom:6px}.stat .v{font-size:28px;font-weight:800;letter-spacing:-.04em}
+    .status-pill{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:8px 12px;font-size:12px;font-weight:800}.ok{background:#ccfbf1;color:#0f766e}.warn{background:#fef3c7;color:#b45309}.bad{background:#fee2e2;color:#991b1b}
+    .grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+    .layout{display:grid;grid-template-columns:395px minmax(0,1fr);gap:16px;align-items:start}.sidebar{padding:16px;position:sticky;top:16px;max-height:calc(100vh - 32px);overflow:auto}.stack{display:grid;gap:12px}.search{width:100%;background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px;font-size:14px;outline:none;color:var(--text)}
+    .chips{display:flex;flex-wrap:wrap;gap:8px}.seg,.mini-btn,.fav-btn,.btn,.mode-btn,.compare-btn,.day-btn{border:1px solid var(--line);background:#fff;color:var(--text);border-radius:999px;padding:10px 12px;font-size:13px;font-weight:800;cursor:pointer}.seg.active,.mini-btn.active,.mode-btn.active,.day-btn.active{background:var(--blue);border-color:var(--blue);color:#fff}.filter-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}.select{width:100%;background:#fff;border:1px solid var(--line);border-radius:14px;padding:12px;font-size:14px;color:var(--text)}.count{color:var(--muted);font-size:13px}
+    .list{display:grid;gap:10px}.card-item{background:#fff;border:1px solid #eaf0f7;border-radius:20px;padding:14px;box-shadow:0 4px 18px rgba(15,23,42,.05);cursor:pointer}.card-item.active{border-color:#93c5fd;box-shadow:0 14px 28px rgba(29,78,216,.14)}.title{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}.title-stack{display:flex;align-items:flex-start;gap:10px;flex:1}.title h3{margin:0;font-size:17px;line-height:1.2}.badge{white-space:nowrap;display:inline-flex;align-items:center;gap:6px;padding:7px 10px;font-size:12px;border-radius:999px;font-weight:800}.easy{background:var(--greenSoft);color:var(--green)}.wild{background:var(--orangeSoft);color:var(--orange)}.family-badge{background:var(--pinkSoft);color:var(--pink)}.metric-row{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.metric{background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:7px 9px;font-size:12px;color:#334155;font-weight:700}.card-desc{margin-top:10px;color:var(--muted);font-size:14px;line-height:1.5}.drive{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:#0f4c81;font-weight:700;margin-top:10px}
+    .maincol{display:grid;gap:14px}.toolbar{padding:12px 14px;display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:13px;color:var(--muted)}.legend span{display:inline-flex;align-items:center;gap:8px}.dot{width:12px;height:12px;border-radius:999px;display:inline-block}#map{height:52vh;min-height:480px;background:#dbeafe;width:100%;border-radius:0 0 26px 26px}
+    .detail{padding:18px}.detail-top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap}.detail h2{margin:4px 0 4px;font-size:clamp(28px,2vw,36px)}.subline{display:flex;flex-wrap:wrap;gap:10px;color:var(--muted);font-size:14px;margin-top:6px}.feature-icons{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.fi{display:inline-flex;align-items:center;gap:6px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:999px;padding:8px 10px;font-size:12px;font-weight:700;color:#334155}.cta{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:12px 14px;border-radius:16px}.btn.primary{background:var(--blue2);color:#fff;border-color:var(--blue2)}.btn.secondary{background:#dbeafe;color:var(--blue2);border-color:#bfdbfe}.detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 18px;margin-top:16px}.box{background:#fff;border:1px solid #edf2f7;border-radius:18px;padding:14px}.st{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:800;margin-bottom:6px}.box p{margin:0;line-height:1.6;color:var(--muted)}.foot{font-size:13px;color:var(--muted);margin-top:12px;line-height:1.55}
+    .live-panel{margin-top:16px;background:#fff;border:1px solid #e7eef9;border-radius:20px;padding:14px}.live-head{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap}.live-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-top:12px}.live-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:16px;padding:12px}.live-label{font-size:12px;color:var(--muted);font-weight:800;text-transform:uppercase;letter-spacing:.05em}.live-value{margin-top:6px;font-size:20px;font-weight:800}.live-sub{margin-top:4px;font-size:12px;color:var(--muted)}
+    .redflags{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.flag{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:8px 10px;font-size:12px;font-weight:800}.flag.warn{background:var(--yellowSoft);color:var(--yellow)}.flag.bad{background:var(--redSoft);color:var(--red)}
+    .decision{display:inline-flex;align-items:center;gap:8px;padding:10px 12px;border-radius:999px;font-size:12px;font-weight:800}.go{background:#ccfbf1;color:#0f766e}.maybe{background:#fef3c7;color:#b45309}.nogo{background:#fee2e2;color:#991b1b}
+    .briefing-card,.compare-col,.health-card,.winner-card,.temporal-col{background:#fff;border:1px solid #e2e8f0;border-radius:18px;padding:14px}.brief-title{font-size:18px;font-weight:800}.brief-line{margin-top:8px;font-size:14px;color:#334155;line-height:1.45}.winner-card{border-color:#bfdbfe;background:#eff6ff}.compare-name{font-size:18px;font-weight:800}.compare-metric{margin-top:8px;font-size:13px;color:#334155}.history-list{display:grid;gap:8px;margin-top:12px}.history-item{background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:10px 12px;font-size:13px;color:#334155}.temporal-item{padding:10px 0;border-top:1px solid #eef2f7}.temporal-item:first-child{border-top:0;padding-top:0}
+    .mobile-tabs{display:none;position:fixed;left:10px;right:10px;bottom:10px;z-index:30}.mobile-tabs .rail{display:flex;gap:8px;overflow:auto;padding:8px}.mobile-tab{border:1px solid var(--line);background:#fff;color:var(--text);border-radius:999px;padding:10px 12px;font-size:13px;font-weight:800;cursor:pointer;white-space:nowrap}.mobile-tab.active{background:var(--blue);border-color:var(--blue);color:#fff}
+    @media (max-width:1280px){.hero-grid,.layout,.grid2,.grid3,.grid4{grid-template-columns:1fr}.sidebar{position:relative;top:auto;max-height:none}.live-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media (max-width:820px){.wrap{padding:10px}.hero{padding:16px}.panel,.sidebar{border-radius:22px}.mobile-tabs{display:block}.hero-title{flex-direction:column;align-items:flex-start}.hero-logo{width:min(320px,72vw)}.layout{display:block}.sidebar{padding:14px}.filter-grid,.detail-grid,.grid2,.grid3,.grid4{grid-template-columns:1fr}.detail{padding:14px}.cta{flex-direction:column}.btn{width:100%}#map{height:38vh;min-height:300px}.live-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+  </style>
+</head>
+<body>
+<div class="offline-banner" id="offlineBanner">Modo offline: estás a ver dados em cache até a ligação voltar.</div>
+<div class="wrap">
+  <section class="hero panel">
+    <div class="hero-grid">
+      <div class="hero-left">
+        <div class="hero-title">
+          <img src="logo_site.png" alt="Logo Praias do Porto Explorer" class="hero-logo">
+          <div class="hero-text">
+            <h1>Praias do Porto Explorer</h1>
+            <div class="sub">Praias até cerca de 2 horas do Estádio do Dragão, com apoio à decisão para família, surf, passeio e dias fáceis.</div>
+            <div class="sub" id="lastUpdateText">Último update: a carregar…</div>
+            <div class="sub status-note" id="reloadStatusText"></div>
+            <div class="hero-actions">
+              <button class="hero-btn" id="refreshLocalBtn" type="button">🔄 Recarregar dados</button>
+              <button class="hero-btn" id="installAppBtn" type="button" style="display:none">📲 Instalar app</button>
+              <button class="hero-btn" id="exportSummaryBtn" type="button">📝 Exportar resumo</button>
+              <span id="freshnessPill" class="status-pill warn">⏳ a validar dados</span>
+            </div>
+          </div>
+        </div>
+        <div class="chips" id="dayChips">
+          <button class="day-btn active" data-day="0">Hoje</button>
+          <button class="day-btn" data-day="1">Amanhã</button>
+          <button class="day-btn" data-day="2">Daqui a 2 dias</button>
+        </div>
+      </div>
+      <div class="stats" id="stats"></div>
+    </div>
+  </section>
+
+  <div class="mobile-tabs"><div class="rail panel"><button class="mobile-tab active" data-target="briefingSection">Briefing</button><button class="mobile-tab" data-target="sidebarSection">Lista</button><button class="mobile-tab" data-target="detailSection">Detalhe</button><button class="mobile-tab" data-target="mapSection">Mapa</button></div></div>
+
+  <section class="section grid2" id="briefingSection">
+    <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Briefing do dia</h2><div class="subline"><span>Resumo automático para decisão rápida.</span></div></div></div><div id="briefingWrap"></div></section>
+    <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Estado dos dados</h2><div class="subline"><span>Última atualização, cobertura e fiabilidade dos dados.</span></div></div></div><div id="healthWrap"></div></section>
+  </section>
+
+  <section class="section panel" style="padding:16px">
+    <div class="detail-top"><div><h2>Comparação temporal</h2><div class="subline"><span>Hoje / Amanhã / Daqui a 2 dias.</span></div></div></div>
+    <div id="temporalWrap" class="grid3"></div>
+  </section>
+
+  <section class="section layout">
+    <aside class="panel sidebar" id="sidebarSection">
+      <div class="stack">
+        <input id="search" class="search" type="text" placeholder="Pesquisar praia, zona, vibe…">
+        <div class="chips" id="modeChips">
+          <button class="mode-btn active" data-mode="balanced">Balanceado</button>
+          <button class="mode-btn" data-mode="family">Família</button>
+          <button class="mode-btn" data-mode="easy">Dia fácil</button>
+          <button class="mode-btn" data-mode="quiet">Sossego</button>
+          <button class="mode-btn" data-mode="near">Mais perto</button>
+          <button class="mode-btn" data-mode="surf">Mar/ondas</button>
+        </div>
+        <div class="chips" id="quickFilters">
+          <button class="seg active" data-filter="all">Todas</button>
+          <button class="seg" data-filter="family_top">Top família</button>
+          <button class="seg" data-filter="Acesso fácil + facilidades">Fáceis</button>
+          <button class="seg" data-filter="Mais selvagem / mais sossegada">Selvagens</button>
+          <button class="seg" data-filter="webcam">Webcam</button>
+          <button class="seg" data-filter="favorites">Favoritas</button>
+        </div>
+        <details class="panel" style="padding:12px;border-radius:18px;border:1px solid #e2e8f0;box-shadow:none;background:#f8fbff;"><summary style="cursor:pointer;font-weight:800;color:#0f4c81;">Filtros avançados</summary><div style="margin-top:12px;display:grid;gap:8px;"><div class="filter-grid"><select id="windFilter" class="select"><option value="all">Vento: qualquer</option><option value="15">Vento ≤ 15 km/h</option><option value="25">Vento ≤ 25 km/h</option><option value="35">Vento ≤ 35 km/h</option></select><select id="airTempFilter" class="select"><option value="all">Ar: qualquer</option><option value="18">Ar ≥ 18°C</option><option value="22">Ar ≥ 22°C</option><option value="25">Ar ≥ 25°C</option></select><select id="waterTempFilter" class="select"><option value="all">Água: qualquer</option><option value="17">Água ≥ 17°C</option><option value="19">Água ≥ 19°C</option><option value="21">Água ≥ 21°C</option></select><select id="driveFilter" class="select"><option value="all">Carro: qualquer</option><option value="30">Carro ≤ 30 min</option><option value="45">Carro ≤ 45 min</option><option value="60">Carro ≤ 60 min</option><option value="90">Carro ≤ 90 min</option><option value="120">Carro ≤ 120 min</option></select><select id="sortSelect" class="select" style="grid-column:1/-1;"><option value="drive">Ordenar: carro</option><option value="alpha">Ordenar: A → Z</option><option value="family">Ordenar: família</option><option value="warm">Ordenar: água mais quente</option><option value="low_wind">Ordenar: menos vento</option><option value="rank">Ordenar: ranking do momento</option></select></div></div></details>
+        <div class="chips"><button id="resetFilters" class="mini-btn" type="button">Limpar filtros</button><button id="showMapAll" class="mini-btn" type="button">Ver tudo no mapa</button><button id="shareStateBtn" class="mini-btn" type="button">Partilhar estado</button></div>
+        <div class="count" id="resultCount"></div>
+      </div>
+      <div class="list" id="beachList"></div>
+    </aside>
+
+    <div class="maincol">
+      <section class="panel" id="mapSection"><div class="toolbar"><div class="legend"><span><i class="dot" style="background:#0f766e"></i> Acesso fácil</span><span><i class="dot" style="background:#c2410c"></i> Mais selvagem</span><span><i class="dot" style="background:#1d4ed8"></i> Selecionada</span></div><div class="count">Base: Estádio do Dragão, Porto</div></div><div id="map"></div></section>
+      <section class="panel detail" id="detailSection"><div id="detail"></div></section>
+      <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Comparador</h2><div class="subline"><span>Até 3 praias com conclusão automática.</span></div></div><div class="cta"><button class="btn secondary" id="clearCompareBtn" type="button">Limpar comparador</button></div></div><div id="compareWrap"></div></section>
+      <section class="panel" style="padding:16px"><div class="detail-top"><div><h2>Histórico dos dados</h2><div class="subline"><span>Atualizações recentes dos dados publicados.</span></div></div></div><div id="historyWrap"></div></section>
+    </div>
+  </section>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="verify_v4.js" defer></script>
+</body></html>

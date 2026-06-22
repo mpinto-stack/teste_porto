@@ -1,0 +1,1795 @@
+[
+  {
+    "name": "Praia de Lavadores",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1295,
+    "lon": -8.6684,
+    "drive_min": 16,
+    "directions": "Atravessa o Porto e segue para Canidelo/Lavadores pela frente de Gaia.",
+    "access": "Acesso fácil e marginal contínua.",
+    "facilities": "Estacionamento, passeio costeiro, apoio sazonal e restauração próxima.",
+    "notes": "Uma das praias mais práticas de Gaia para uma ida rápida.",
+    "best_for": [
+      "fácil",
+      "passeio",
+      "famílias"
+    ],
+    "caution": "Pode ter mar mais mexido e lotação alta.",
+    "gmaps": "https://www.google.com/maps?q=41.1295,-8.6684",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-gaia.pt/pt/turismo/vivenciar/contemplar/praias/"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard"
+    ],
+    "family_score": 8.0,
+    "family_note": "Muito boa para proximidade e simplicidade logística."
+  },
+  {
+    "name": "Praia do Aterro",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1989,
+    "lon": -8.7037,
+    "drive_min": 17,
+    "directions": "Segue para Leça da Palmeira até à zona do Aterro.",
+    "access": "Acesso muito fácil com estacionamento.",
+    "facilities": "Praia vigiada, bares, restaurante, duches, WC e estacionamento.",
+    "notes": "Uma das praias mais equilibradas para famílias perto do Porto.",
+    "best_for": [
+      "famílias",
+      "dia fácil",
+      "areal amplo"
+    ],
+    "caution": "Pode perder-se pé rapidamente junto à rebentação.",
+    "gmaps": "https://www.google.com/maps?q=41.1989,-8.7037",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-matosinhos.pt/servicos/ambiente/praias"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "surf"
+    ],
+    "family_score": 8.6,
+    "family_note": "Muito sólida para família, com ótimo equilíbrio entre conforto e mar."
+  },
+  {
+    "name": "Praia da Boa Nova-Senhora",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1908,
+    "lon": -8.7075,
+    "drive_min": 18,
+    "directions": "Segue para Leça da Palmeira pela frente marítima perto da Boa Nova.",
+    "access": "Acesso urbano simples.",
+    "facilities": "Estacionamento e apoio sazonal.",
+    "notes": "Boa opção perto da cidade, equilibrada para um dia sem grande deslocação.",
+    "best_for": [
+      "fácil",
+      "perto do Porto",
+      "passeio"
+    ],
+    "caution": "Pode ter vento e mar mais duro que praias abrigadas.",
+    "gmaps": "https://www.google.com/maps?q=41.1908,-8.7075",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-matosinhos.pt/servicos/ambiente/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard"
+    ],
+    "family_score": 7.8,
+    "family_note": "Boa praia de proximidade e facilidade logística."
+  },
+  {
+    "name": "Praia de Leça da Palmeira",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.194,
+    "lon": -8.7064,
+    "drive_min": 18,
+    "directions": "Segue até Leça da Palmeira e usa a frente marítima principal.",
+    "access": "Acesso fácil com muitos pontos de entrada.",
+    "facilities": "Praia vigiada, bar, duches, sanitários e acesso a mobilidade reduzida.",
+    "notes": "Praia muito procurada, excelente para quem quer praia grande e serviços.",
+    "best_for": [
+      "famílias",
+      "serviços",
+      "praia grande"
+    ],
+    "caution": "Mar por vezes exigente, convém confirmar condições do dia.",
+    "gmaps": "https://www.google.com/maps?q=41.194,-8.7064",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-matosinhos.pt/servicos/ambiente/praias"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "surf"
+    ],
+    "family_score": 8.5,
+    "family_note": "Muito forte em serviços e acessos, com mar que merece respeito."
+  },
+  {
+    "name": "Praia de Salgueiros",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1207,
+    "lon": -8.6653,
+    "drive_min": 18,
+    "directions": "Segue para Gaia pela frente marítima até Salgueiros.",
+    "access": "Acesso urbano simples com passadiços e zona plana.",
+    "facilities": "Praia vigiada, restauração e estacionamento.",
+    "notes": "Boa praia urbana com bastante areal e muito escolhida por famílias.",
+    "best_for": [
+      "famílias",
+      "passadiços",
+      "praia urbana"
+    ],
+    "caution": "Pode encher em dias fortes de verão.",
+    "gmaps": "https://www.google.com/maps?q=41.1207,-8.6653",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-gaia.pt/pt/turismo/vivenciar/contemplar/praias/"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible"
+    ],
+    "family_score": 8.4,
+    "family_note": "Muito equilibrada entre acesso, areia e serviços."
+  },
+  {
+    "name": "Praia do Castelo do Queijo",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1746,
+    "lon": -8.6898,
+    "drive_min": 18,
+    "directions": "Segue pela VCI até à frente atlântica do Porto e continua até ao Castelo do Queijo.",
+    "access": "Acesso urbano muito simples, com passeio marítimo e entradas diretas.",
+    "facilities": "Restaurantes próximos, estacionamento, WC e apoio sazonal.",
+    "notes": "Ótima praia para fuga rápida desde o Dragão, com muito contexto urbano e vista ampla.",
+    "best_for": [
+      "fuga rápida",
+      "fim de tarde",
+      "famílias"
+    ],
+    "caution": "Pode ter vento e mar mexido em dias mais fortes.",
+    "gmaps": "https://www.google.com/maps?q=41.1746,-8.6898",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://visitporto.travel/pt-PT/poi/66b22bc043ba490001b5db99"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard"
+    ],
+    "family_score": 8.0,
+    "family_note": "Muito prática para um salto rápido ao mar sem perder tempo."
+  },
+  {
+    "name": "Praia de Canide Norte",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1152,
+    "lon": -8.6636,
+    "drive_min": 19,
+    "directions": "Continua a sul de Salgueiros ao longo da costa de Gaia.",
+    "access": "Acesso simples e confortável.",
+    "facilities": "Praia acessível, vigiada e com estacionamento.",
+    "notes": "Uma das melhores de Gaia para dia fácil e uso familiar.",
+    "best_for": [
+      "famílias",
+      "acessível",
+      "dia fácil"
+    ],
+    "caution": "Pode ser concorrida no pico do verão.",
+    "gmaps": "https://www.google.com/maps?q=41.1152,-8.6636",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-gaia.pt/pt/turismo/vivenciar/contemplar/praias/"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "family_score": 8.8,
+    "family_note": "Muito forte para família e logística simples."
+  },
+  {
+    "name": "Praia do Homem do Leme",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1682,
+    "lon": -8.6878,
+    "drive_min": 19,
+    "directions": "Segue pela frente marítima ocidental do Porto até ao Homem do Leme.",
+    "access": "Acesso simples e muito confortável.",
+    "facilities": "Praia vigiada, serviços próximos e zona muito conhecida das famílias.",
+    "notes": "Uma das praias clássicas do Porto para praia urbana simples.",
+    "best_for": [
+      "famílias",
+      "praia urbana",
+      "passeio"
+    ],
+    "caution": "Pode ter muita gente em dias muito bons.",
+    "gmaps": "https://www.google.com/maps?q=41.1682,-8.6878",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://visitporto.travel/pt-PT/poi/66b22bc043ba490001b5db99"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard"
+    ],
+    "family_score": 8.3,
+    "family_note": "Muito sólida para famílias que querem simplicidade e proximidade."
+  },
+  {
+    "name": "Praia do Cabo do Mundo",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.213,
+    "lon": -8.72,
+    "drive_min": 20,
+    "directions": "Segue pela marginal norte de Matosinhos em direção a Perafita/Lavra.",
+    "access": "Acesso simples com estacionamento próximo.",
+    "facilities": "Apoio sazonal e frente costeira agradável.",
+    "notes": "Boa praia para sair da pressão urbana imediata mantendo viagem curta.",
+    "best_for": [
+      "menos confusão",
+      "praia grande",
+      "fim de tarde"
+    ],
+    "caution": "Exposição ao Atlântico nota-se bastante em dias ventosos.",
+    "gmaps": "https://www.google.com/maps?q=41.213,-8.72",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-matosinhos.pt/servicos/ambiente/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard"
+    ],
+    "family_score": 7.5,
+    "family_note": "Boa relação entre distância curta e sensação de praia mais aberta."
+  },
+  {
+    "name": "Praia do Molhe",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1608,
+    "lon": -8.6846,
+    "drive_min": 20,
+    "directions": "Segue para a Foz pela Avenida do Brasil até à zona do Molhe.",
+    "access": "Passeio marítimo e acesso direto ao areal.",
+    "facilities": "Restauração, bancos, apoio sazonal e estacionamento urbano.",
+    "notes": "Excelente para combinar praia, caminhada e ambiente da Foz.",
+    "best_for": [
+      "passeio",
+      "fim de tarde",
+      "cidade + mar"
+    ],
+    "caution": "Conforto baixa quando entra vento forte ou mar mais vivo.",
+    "gmaps": "https://www.google.com/maps?q=41.1608,-8.6846",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://visitporto.travel/pt-PT/poi/66b22bc043ba490001b5db99"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant"
+    ],
+    "family_score": 7.6,
+    "family_note": "Boa para um programa leve e urbano, mais do que para logística pesada de família."
+  },
+  {
+    "name": "Praia de Gondarém",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1546,
+    "lon": -8.6827,
+    "drive_min": 21,
+    "directions": "Segue para a Foz e desce à frente atlântica junto ao passeio marítimo.",
+    "access": "Acesso urbano direto.",
+    "facilities": "Cafés e restaurantes próximos, apoio sazonal.",
+    "notes": "Boa para combinar praia e almoço ou um fim de tarde junto ao mar.",
+    "best_for": [
+      "passeio",
+      "fim de tarde",
+      "cidade + mar"
+    ],
+    "caution": "A faixa útil de areia nem sempre é muito generosa.",
+    "gmaps": "https://www.google.com/maps?q=41.1546,-8.6827",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://visitporto.travel/pt-PT/poi/66b22bc043ba490001b5db99"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant"
+    ],
+    "family_score": 7.4,
+    "family_note": "Boa para um plano curto e confortável."
+  },
+  {
+    "name": "Praia de Madalena Norte",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1004,
+    "lon": -8.6603,
+    "drive_min": 21,
+    "directions": "Segue pela frente de Gaia até Madalena.",
+    "access": "Acesso simples com passadiços e praia aberta.",
+    "facilities": "Estacionamento, apoio sazonal e passadiços.",
+    "notes": "Boa praia para quem quer equilíbrio entre espaço, acesso e passeio.",
+    "best_for": [
+      "mais espaço",
+      "passeio",
+      "famílias"
+    ],
+    "caution": "Exposta ao vento e ondulação do dia.",
+    "gmaps": "https://www.google.com/maps?q=41.1004,-8.6603",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-gaia.pt/pt/turismo/vivenciar/contemplar/praias/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 8.0,
+    "family_note": "Boa escolha global para dia simples em Gaia."
+  },
+  {
+    "name": "Praia dos Ingleses",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.1473,
+    "lon": -8.6748,
+    "drive_min": 23,
+    "directions": "Continua pela Foz até à zona dos Ingleses.",
+    "access": "Acesso curto ao areal pela marginal.",
+    "facilities": "Muita restauração e apoio sazonal.",
+    "notes": "Boa praia para misturar programa social e mar.",
+    "best_for": [
+      "fim de tarde",
+      "restaurantes",
+      "social"
+    ],
+    "caution": "Pode estar bastante concorrida nas melhores horas.",
+    "gmaps": "https://www.google.com/maps?q=41.1473,-8.6748",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://visitporto.travel/pt-PT/poi/66b22bc043ba490001b5db99"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant"
+    ],
+    "family_score": 7.2,
+    "family_note": "Forte em ambiente e localização."
+  },
+  {
+    "name": "Praia Internacional",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.141,
+    "lon": -8.6707,
+    "drive_min": 25,
+    "directions": "Segue até ao troço final da Foz atlântica.",
+    "access": "Acesso simples pela marginal.",
+    "facilities": "Passeio, cafés nas redondezas e apoio sazonal.",
+    "notes": "Praia urbana conhecida para passeios e idas rápidas ao mar.",
+    "best_for": [
+      "praia urbana",
+      "passeio",
+      "fim de tarde"
+    ],
+    "caution": "Vento e mar do dia fazem diferença.",
+    "gmaps": "https://www.google.com/maps?q=41.141,-8.6707",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://visitporto.travel/pt-PT/poi/66b22bc043ba490001b5db99"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant"
+    ],
+    "family_score": 7.0,
+    "family_note": "Boa para fechar uma tarde na Foz."
+  },
+  {
+    "name": "Praia da Agudela",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.2472,
+    "lon": -8.7288,
+    "drive_min": 25,
+    "directions": "Segue para Lavra pela marginal ou A28 e desce à costa.",
+    "access": "Acesso simples, com passadiços e entradas fáceis.",
+    "facilities": "Estacionamento e vigilância sazonal.",
+    "notes": "Praia ampla para quem quer mais espaço sem sair da área metropolitana.",
+    "best_for": [
+      "surf",
+      "mais espaço",
+      "praia ampla"
+    ],
+    "caution": "Exposta ao vento e mar aberto.",
+    "gmaps": "https://www.google.com/maps?q=41.2472,-8.7288",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-matosinhos.pt/servicos/ambiente/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "surf"
+    ],
+    "family_score": 6.9,
+    "family_note": "Mais indicada para espaço e mar do que para calma total."
+  },
+  {
+    "name": "Praia do Senhor da Pedra",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.0527,
+    "lon": -8.6538,
+    "drive_min": 26,
+    "directions": "Segue para Miramar e desce à zona do Senhor da Pedra.",
+    "access": "Acesso fácil e muito fotogénico.",
+    "facilities": "Estacionamento, apoio sazonal e passeio marítimo.",
+    "notes": "Muito forte em paisagem e para passeios com praia.",
+    "best_for": [
+      "fotografia",
+      "paisagem",
+      "passeio"
+    ],
+    "caution": "Pode ter vento forte e afluência alta.",
+    "gmaps": "https://www.google.com/maps?q=41.0527,-8.6538",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-gaia.pt/pt/turismo/vivenciar/contemplar/praias/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 7.8,
+    "family_note": "Excelente para passeio e praia com cenário marcante."
+  },
+  {
+    "name": "Praia de Azurara",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.3399,
+    "lon": -8.7428,
+    "drive_min": 27,
+    "directions": "Segue para Vila do Conde e cruza para sul do rio Ave em direção a Azurara.",
+    "access": "Acesso relativamente simples com praia ampla.",
+    "facilities": "Estacionamento e apoio sazonal.",
+    "notes": "Boa praia para combinar proximidade com mais espaço.",
+    "best_for": [
+      "mais espaço",
+      "surf",
+      "famílias"
+    ],
+    "caution": "Pode haver vento e mar mais abertos.",
+    "gmaps": "https://www.google.com/maps?q=41.3399,-8.7428",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visitviladoconde.pt/fazer/natureza/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "surf"
+    ],
+    "family_score": 7.4,
+    "family_note": "Boa escolha de meio-termo entre acesso fácil e praia ampla."
+  },
+  {
+    "name": "Praia da Baía",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.0079,
+    "lon": -8.6489,
+    "drive_min": 28,
+    "directions": "Segue para Espinho e desce à frente urbana da cidade.",
+    "access": "Acesso muito fácil, com passeio marítimo e praia urbana central.",
+    "facilities": "Bares, restaurantes, escolas de surf e apoio sazonal.",
+    "notes": "A praia mais procurada de Espinho, muito forte para quem quer praia urbana com vida.",
+    "best_for": [
+      "famílias",
+      "surf",
+      "cidade + mar"
+    ],
+    "caution": "Pode ser bastante concorrida em verão.",
+    "gmaps": "https://www.google.com/maps?q=41.0079,-8.6489",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visit.espinho.pt/pt/turismo/praias-natureza/"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "surf"
+    ],
+    "family_score": 8.1,
+    "family_note": "Muito prática e viva, ótima para praia sem abdicar de cidade e serviços."
+  },
+  {
+    "name": "Praia de Miramar",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.0449,
+    "lon": -8.6571,
+    "drive_min": 28,
+    "directions": "Segue para sul pela costa de Gaia até Miramar.",
+    "access": "Acesso fácil, com vila costeira e entradas simples.",
+    "facilities": "Estacionamento, restauração e apoio sazonal.",
+    "notes": "Praia muito conhecida e boa para combinar praia e passeio.",
+    "best_for": [
+      "famílias",
+      "passeio",
+      "vila"
+    ],
+    "caution": "Pode estar concorrida e exposta ao vento.",
+    "gmaps": "https://www.google.com/maps?q=41.0449,-8.6571",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-gaia.pt/pt/turismo/vivenciar/contemplar/praias/"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 8.2,
+    "family_note": "Boa praia para família e para um dia simples perto do Porto."
+  },
+  {
+    "name": "Praia Azul",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.0109,
+    "lon": -8.6449,
+    "drive_min": 29,
+    "directions": "Segue para Espinho e desce à frente marítima junto à Esplanada Maia Brenha.",
+    "access": "Acesso fácil, com areal extenso e apoio urbano.",
+    "facilities": "Centro Azul, apoio balnear e zona boa para surf.",
+    "notes": "Boa combinação de lazer em família com mar ativo.",
+    "best_for": [
+      "famílias",
+      "surf",
+      "praia urbana"
+    ],
+    "caution": "Continua a ser praia de mar aberto, com vento e ondulação a considerar.",
+    "gmaps": "https://www.google.com/maps?q=41.0109,-8.6449",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visit.espinho.pt/pt/turismo/praias-natureza/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "surf",
+      "blueflag"
+    ],
+    "family_score": 8.0,
+    "family_note": "Boa escolha para família que quer logística simples e animação à volta."
+  },
+  {
+    "name": "Praia da Aguda",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.0384,
+    "lon": -8.6569,
+    "drive_min": 30,
+    "directions": "Desce pela linha costeira até à Aguda.",
+    "access": "Acesso fácil e muito ligado à aldeia piscatória.",
+    "facilities": "Restaurantes, estacionamento e apoio sazonal.",
+    "notes": "Muito agradável para combinar praia com ambiente local.",
+    "best_for": [
+      "aldeia",
+      "restaurantes",
+      "famílias"
+    ],
+    "caution": "Pode ter menor sensação de isolamento.",
+    "gmaps": "https://www.google.com/maps?q=41.0384,-8.6569",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-gaia.pt/pt/turismo/vivenciar/contemplar/praias/"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 8.1,
+    "family_note": "Forte em ambiente e praticidade."
+  },
+  {
+    "name": "Praia da Rua 37",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.9995,
+    "lon": -8.6456,
+    "drive_min": 30,
+    "directions": "Segue até à zona sul do centro de Espinho.",
+    "access": "Acesso urbano fácil.",
+    "facilities": "Restaurantes típicos próximos e apoio sazonal.",
+    "notes": "Boa praia para combinar refeições e praia com contexto urbano.",
+    "best_for": [
+      "restaurantes",
+      "famílias",
+      "cidade + mar"
+    ],
+    "caution": "Pode ter afluência considerável em dias bons.",
+    "gmaps": "https://www.google.com/maps?q=40.9995,-8.6456",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visit.espinho.pt/pt/turismo/praias-natureza/"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 7.8,
+    "family_note": "Boa em conforto e logística."
+  },
+  {
+    "name": "Praia de Angeiras Sul",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.2689,
+    "lon": -8.7334,
+    "drive_min": 30,
+    "directions": "Segue até Angeiras pela costa norte de Matosinhos.",
+    "access": "Acesso fácil, com entrada simples à praia.",
+    "facilities": "Estacionamento, restauração próxima e apoio sazonal.",
+    "notes": "Praia com ambiente de vila costeira e bom programa praia + peixe.",
+    "best_for": [
+      "aldeia",
+      "restaurantes",
+      "praia local"
+    ],
+    "caution": "Mar mais exposto do que praias muito urbanas.",
+    "gmaps": "https://www.google.com/maps?q=41.2689,-8.7334",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-matosinhos.pt/servicos/ambiente/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard"
+    ],
+    "family_score": 7.0,
+    "family_note": "Boa para combinar praia com ambiente local."
+  },
+  {
+    "name": "Praia de Árvore",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.3306,
+    "lon": -8.7388,
+    "drive_min": 30,
+    "directions": "Continua para sul de Vila do Conde até à zona de Árvore.",
+    "access": "Acesso fácil por estrada e passadiços.",
+    "facilities": "Praia ampla, dunas e apoio sazonal.",
+    "notes": "Muito boa para quem valoriza espaço e envolvente mais natural.",
+    "best_for": [
+      "natureza",
+      "mais espaço",
+      "famílias"
+    ],
+    "caution": "Menos urbana e mais exposta.",
+    "gmaps": "https://www.google.com/maps?q=41.3306,-8.7388",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visitviladoconde.pt/fazer/natureza/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "trail"
+    ],
+    "family_score": 7.6,
+    "family_note": "Boa praia familiar para quem gosta de espaço e passadiços."
+  },
+  {
+    "name": "Praia da Lagoa",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.3768,
+    "lon": -8.7598,
+    "drive_min": 32,
+    "directions": "Segue para a Póvoa de Varzim e entra na frente marítima da cidade.",
+    "access": "Acesso urbano simples com passeio pedonal.",
+    "facilities": "Bares e muita proximidade a serviços da cidade.",
+    "notes": "Uma das praias clássicas da Póvoa para quem quer cidade, mar e logística fácil.",
+    "best_for": [
+      "famílias",
+      "cidade + mar",
+      "restaurantes"
+    ],
+    "caution": "Nortada frequente no verão e muita afluência.",
+    "gmaps": "https://www.google.com/maps?q=41.3768,-8.7598",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-pvarzim.pt/territorio/visite-povoa-de-varzim/ponto-de-interesse/praias-bandeira-azul/"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 8.0,
+    "family_note": "Muito boa para dia fácil e estrutura urbana forte."
+  },
+  {
+    "name": "Praia de Mindelo",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.312,
+    "lon": -8.7398,
+    "drive_min": 32,
+    "directions": "Segue para o corredor litoral sul de Vila do Conde.",
+    "access": "Acesso fácil por estrada e passadiços.",
+    "facilities": "Apoio sazonal e situação junto a zona natural.",
+    "notes": "Boa para conciliar praia e natureza, com ambiente menos saturado.",
+    "best_for": [
+      "natureza",
+      "famílias",
+      "passadiços"
+    ],
+    "caution": "Pode ser ventosa e exposta.",
+    "gmaps": "https://www.google.com/maps?q=41.312,-8.7398",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visitviladoconde.pt/fazer/natureza/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "trail"
+    ],
+    "family_score": 7.5,
+    "family_note": "Equilibrada para família que valoriza ambiente natural."
+  },
+  {
+    "name": "Praia Verde",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.3779,
+    "lon": -8.7586,
+    "drive_min": 33,
+    "directions": "Segue pela frente marítima central da Póvoa.",
+    "access": "Acesso simples e inserção urbana.",
+    "facilities": "Praia acessível e apoio sazonal.",
+    "notes": "Boa escolha para um dia fácil na Póvoa.",
+    "best_for": [
+      "famílias",
+      "acessível",
+      "praia urbana"
+    ],
+    "caution": "O conforto pode baixar com vento de norte.",
+    "gmaps": "https://www.google.com/maps?q=41.3779,-8.7586",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-pvarzim.pt/territorio/visite-povoa-de-varzim/ponto-de-interesse/praias-bandeira-azul/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "accessible"
+    ],
+    "family_score": 8.1,
+    "family_note": "Boa para famílias e mobilidade simples."
+  },
+  {
+    "name": "Praia de Silvalde / Pau da Manobra",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.9872,
+    "lon": -8.6511,
+    "drive_min": 33,
+    "directions": "Segue para a zona sul de Espinho até Silvalde.",
+    "access": "Acesso simples e frente marítima menos central.",
+    "facilities": "Apoio sazonal e estacionamento nas imediações.",
+    "notes": "Boa praia para sair da zona mais central de Espinho mantendo acessos fáceis.",
+    "best_for": [
+      "menos centro",
+      "mais espaço",
+      "praia urbana"
+    ],
+    "caution": "Mais exposta ao vento e ao mar do dia.",
+    "gmaps": "https://www.google.com/maps?q=40.9872,-8.6511",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visit.espinho.pt/pt/turismo/praias-natureza/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 7.2,
+    "family_note": "Boa alternativa para quem quer menos pressão urbana."
+  },
+  {
+    "name": "Praia de Esmoriz",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.952,
+    "lon": -8.646,
+    "drive_min": 34,
+    "directions": "Segue pela A29 até Esmoriz e desce à costa.",
+    "access": "Acesso fácil.",
+    "facilities": "Serviços de praia, restauração e areal amplo.",
+    "notes": "Boa para um dia simples a sul do Porto, com areal grande.",
+    "best_for": [
+      "famílias",
+      "mais espaço",
+      "praia ampla"
+    ],
+    "caution": "Mar frequentemente agitado e vento a considerar.",
+    "gmaps": "https://www.google.com/maps?q=40.952,-8.646",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-ovar.pt/pt/menu/692/praias.aspx"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "surf"
+    ],
+    "family_score": 7.7,
+    "family_note": "Boa escolha quando queres descer para sul sem ir demasiado longe."
+  },
+  {
+    "name": "Praia de Paimó",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.3858,
+    "lon": -8.7647,
+    "drive_min": 35,
+    "directions": "Segue para a frente marítima da Póvoa no troço central/sul.",
+    "access": "Acesso fácil.",
+    "facilities": "Praia acessível e galardoada no concelho.",
+    "notes": "Boa escolha para família e praia com infraestrutura consolidada.",
+    "best_for": [
+      "famílias",
+      "acessível",
+      "praia urbana"
+    ],
+    "caution": "Pode ter muita procura.",
+    "gmaps": "https://www.google.com/maps?q=41.3858,-8.7647",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-pvarzim.pt/territorio/visite-povoa-de-varzim/ponto-de-interesse/praias-bandeira-azul/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "family_score": 8.0,
+    "family_note": "Sólida para família e logística simples."
+  },
+  {
+    "name": "Praia de Paramos",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 40.9645,
+    "lon": -8.6507,
+    "drive_min": 35,
+    "directions": "Segue para sul de Espinho até ao troço de Paramos.",
+    "access": "Acesso razoável, com grande areal e ambiente mais natural.",
+    "facilities": "Apoio sazonal limitado comparado com o centro de Espinho.",
+    "notes": "Praia ampla, com sensação mais natural e interessante para surf.",
+    "best_for": [
+      "surf",
+      "sossego",
+      "mais espaço"
+    ],
+    "caution": "Maior exposição ao vento e ondulação.",
+    "gmaps": "https://www.google.com/maps?q=40.9645,-8.6507",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visit.espinho.pt/pt/turismo/praias-natureza/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "surf",
+      "blueflag"
+    ],
+    "family_score": 6.8,
+    "family_note": "Melhor para espaço e mar do que para conforto total de família pequena."
+  },
+  {
+    "name": "Praia de Valadares Sul",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.9885,
+    "lon": -8.6494,
+    "drive_min": 35,
+    "directions": "Segue mais a sul pela costa de Gaia até Valadares.",
+    "access": "Acesso simples com areal amplo.",
+    "facilities": "Estacionamento e apoio sazonal.",
+    "notes": "Boa praia para quem quer mais espaço sem sair do grande eixo metropolitano.",
+    "best_for": [
+      "mais espaço",
+      "famílias",
+      "menos centro"
+    ],
+    "caution": "Mais deslocação e mais exposição ao vento.",
+    "gmaps": "https://www.google.com/maps?q=40.9885,-8.6494",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-gaia.pt/pt/turismo/vivenciar/contemplar/praias/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 7.8,
+    "family_note": "Boa alternativa sul para dia inteiro com mais areal."
+  },
+  {
+    "name": "Praia de Vila Chã",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.2909,
+    "lon": -8.7329,
+    "drive_min": 35,
+    "directions": "Continua a sul de Mindelo até à zona de Vila Chã.",
+    "access": "Acesso simples e atmosfera de aldeia.",
+    "facilities": "Apoio sazonal, estacionamento e passadiços.",
+    "notes": "Praia com carácter local autêntico e bom enquadramento para famílias.",
+    "best_for": [
+      "aldeia",
+      "famílias",
+      "menos confusão"
+    ],
+    "caution": "Depende muito do mar/vento do dia.",
+    "gmaps": "https://www.google.com/maps?q=41.2909,-8.7329",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visitviladoconde.pt/fazer/natureza/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 7.8,
+    "family_note": "Boa em autenticidade e tranquilidade relativa."
+  },
+  {
+    "name": "Praia da Fragosa",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.393,
+    "lon": -8.77,
+    "drive_min": 36,
+    "directions": "Segue para norte da Póvoa na direção de Aguçadoura/Estela.",
+    "access": "Acesso por estrada local.",
+    "facilities": "Praia acessível e com distinções de qualidade.",
+    "notes": "Boa praia do eixo norte da Póvoa, com mais espaço e menos centro.",
+    "best_for": [
+      "mais espaço",
+      "famílias",
+      "menos centro"
+    ],
+    "caution": "Mais vento e mar aberto.",
+    "gmaps": "https://www.google.com/maps?q=41.393,-8.77",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-pvarzim.pt/territorio/visite-povoa-de-varzim/ponto-de-interesse/praias-bandeira-azul/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "family_score": 7.4,
+    "family_note": "Boa alternativa a quem quer sair do coração urbano da Póvoa."
+  },
+  {
+    "name": "Praia de Cortegaça",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.9367,
+    "lon": -8.6482,
+    "drive_min": 36,
+    "directions": "Continua para sul de Esmoriz até Cortegaça.",
+    "access": "Acesso simples, passadiços e areal agradável.",
+    "facilities": "Apoio sazonal e frente de praia organizada.",
+    "notes": "Muito interessante para famílias pelo cenário de pinhal, dunas e passadiços.",
+    "best_for": [
+      "famílias",
+      "passadiços",
+      "paisagem"
+    ],
+    "caution": "Praia atlântica aberta e com vento do dia.",
+    "gmaps": "https://www.google.com/maps?q=40.9367,-8.6482",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-ovar.pt/pt/menu/692/praias.aspx"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 7.9,
+    "family_note": "Boa para família e para um ambiente mais agradável do que praias muito urbanas."
+  },
+  {
+    "name": "Praia de Labruge",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.2824,
+    "lon": -8.7309,
+    "drive_min": 38,
+    "directions": "Segue para o extremo sul do litoral de Vila do Conde.",
+    "access": "Acesso fácil com praia rural ampla.",
+    "facilities": "Apoio sazonal, estacionamento e boa praia acessível.",
+    "notes": "Praia rural com areal extenso, boa para um dia mais tranquilo.",
+    "best_for": [
+      "mais espaço",
+      "famílias",
+      "praia rural"
+    ],
+    "caution": "Vento e mar aberto influenciam o conforto.",
+    "gmaps": "https://www.google.com/maps?q=41.2824,-8.7309",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visitviladoconde.pt/fazer/natureza/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "family_score": 7.8,
+    "family_note": "Muito boa se queres espaço e simplicidade."
+  },
+  {
+    "name": "Praia do Quião",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.405,
+    "lon": -8.7775,
+    "drive_min": 38,
+    "directions": "Segue mais a norte do núcleo urbano da Póvoa.",
+    "access": "Acesso relativamente simples.",
+    "facilities": "Apoio sazonal e zona balnear aberta.",
+    "notes": "Troço interessante para quem quer mais espaço e menos pressão do centro.",
+    "best_for": [
+      "mais espaço",
+      "surf",
+      "menos centro"
+    ],
+    "caution": "Costa aberta e mais ventosa.",
+    "gmaps": "https://www.google.com/maps?q=41.405,-8.7775",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-pvarzim.pt/territorio/visite-povoa-de-varzim/ponto-de-interesse/praias-bandeira-azul/"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "blueflag",
+      "surf"
+    ],
+    "family_score": 7.2,
+    "family_note": "Boa praia mais aberta para quem não precisa da malha urbana colada ao areal."
+  },
+  {
+    "name": "Praia de Ofir",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.52,
+    "lon": -8.792,
+    "drive_min": 42,
+    "directions": "Segue pela A28 até Esposende/Fão e desce à zona de Ofir.",
+    "access": "Acesso fácil.",
+    "facilities": "Apoios balneares, restaurantes e ambiente consolidado.",
+    "notes": "Praia clássica para surf e veraneio, com bom equilíbrio entre serviços e natureza.",
+    "best_for": [
+      "surf",
+      "famílias",
+      "dia completo"
+    ],
+    "caution": "Costa atlântica mais exposta, com vento e ondulação.",
+    "gmaps": "https://www.google.com/maps?q=41.52,-8.792",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visitesposende.com/pt/fazer/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "surf",
+      "blueflag"
+    ],
+    "family_score": 7.8,
+    "family_note": "Boa para um dia completo a norte, com serviços e praia forte."
+  },
+  {
+    "name": "Praia do Furadouro",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.8719,
+    "lon": -8.6741,
+    "drive_min": 42,
+    "directions": "Segue para Ovar/Furadouro pela A29 e desce à marginal da praia.",
+    "access": "Acesso fácil, praia urbana e tradicional.",
+    "facilities": "Serviços urbanos, comércio, parque de campismo e restauração.",
+    "notes": "Praia muito completa e boa para quem gosta de ambiente balnear mais clássico.",
+    "best_for": [
+      "famílias",
+      "restaurantes",
+      "tradição"
+    ],
+    "caution": "Mar agitado e águas frias; convém acompanhar condições do dia.",
+    "gmaps": "https://www.google.com/maps?q=40.8719,-8.6741",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-ovar.pt/pt/menu/692/praias.aspx"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "surf"
+    ],
+    "family_score": 7.8,
+    "family_note": "Boa para família que valoriza conforto urbano e uma frente de praia completa."
+  },
+  {
+    "name": "Praia de Suave Mar",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.536,
+    "lon": -8.787,
+    "drive_min": 44,
+    "directions": "Segue pela A28 até Esposende e entra na frente marítima de Suave Mar.",
+    "access": "Acesso fácil e passeio agradável.",
+    "facilities": "Apoio de praia, restauração e zona balnear consolidada.",
+    "notes": "Boa praia do eixo urbano de Esposende, prática e fácil de integrar num passeio longo.",
+    "best_for": [
+      "passeio",
+      "famílias",
+      "cidade + mar"
+    ],
+    "caution": "Mais construída do que outros troços naturais de Esposende.",
+    "gmaps": "https://www.google.com/maps?q=41.536,-8.787",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visitesposende.com/pt/fazer/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 7.9,
+    "family_note": "Boa em comodidade e acesso."
+  },
+  {
+    "name": "Praia do Torrão do Lameiro",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 40.847,
+    "lon": -8.693,
+    "drive_min": 45,
+    "directions": "Segue para sul do Furadouro em direção ao Torrão do Lameiro.",
+    "access": "Acesso razoável através de zona de pinhal e dunas.",
+    "facilities": "Apoio sazonal e grande sensação de praia natural.",
+    "notes": "Muito boa para quem quer mais tranquilidade e contacto com pinhal e dunas.",
+    "best_for": [
+      "sossego",
+      "mais espaço",
+      "natureza"
+    ],
+    "caution": "Menos urbana e mais exposta; convém ir preparado para vento.",
+    "gmaps": "https://www.google.com/maps?q=40.847,-8.693",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-ovar.pt/pt/menu/692/praias.aspx"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "trail"
+    ],
+    "family_score": 6.9,
+    "family_note": "Boa para espaço e tranquilidade, menos forte em facilidades."
+  },
+  {
+    "name": "Praia da Apúlia",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.485,
+    "lon": -8.794,
+    "drive_min": 48,
+    "directions": "Segue até Apúlia pela A28.",
+    "access": "Acesso fácil, com praia, dunas e zona muito conhecida.",
+    "facilities": "Apoio balnear sazonal e restauração nas proximidades.",
+    "notes": "Excelente para dia completo, fotografia e ambiente de praia do norte.",
+    "best_for": [
+      "paisagem",
+      "famílias",
+      "dia completo"
+    ],
+    "caution": "Continua a ser praia atlântica exposta ao vento.",
+    "gmaps": "https://www.google.com/maps?q=41.485,-8.794",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.visitesposende.com/pt/fazer/praias"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 7.8,
+    "family_note": "Boa escolha quando queres algo muito bonito e ainda relativamente perto."
+  },
+  {
+    "name": "Praia do Cabedelo (Viana)",
+    "category": "Acesso fácil + facilidades",
+    "lat": 41.682,
+    "lon": -8.849,
+    "drive_min": 55,
+    "directions": "Segue pela A28 até Viana do Castelo e entra na zona do Cabedelo.",
+    "access": "Acesso fácil.",
+    "facilities": "Apoios, estacionamento e praia acessível.",
+    "notes": "Uma das praias mais fortes do norte para wind e kitesurf.",
+    "best_for": [
+      "surf",
+      "vento",
+      "desporto"
+    ],
+    "caution": "Em dias de vento forte é muito menos indicada para praia calma com crianças pequenas.",
+    "gmaps": "https://www.google.com/maps?q=41.682,-8.849",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-viana-castelo.pt/areas-de-atividade/comunicacao/noticias/noticia/viana-do-castelo-conquista-mais-duas-bandeiras-azuis-e-soma-13-nesta-epoca-balnear"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "surf",
+      "blueflag"
+    ],
+    "family_score": 6.0,
+    "family_note": "Excelente para desporto e energia, menos para um dia tranquilo."
+  },
+  {
+    "name": "Praia Norte (Viana)",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 41.705,
+    "lon": -8.872,
+    "drive_min": 56,
+    "directions": "Segue para o litoral norte da cidade de Viana do Castelo.",
+    "access": "Acesso simples de carro até perto da praia.",
+    "facilities": "Apoio sazonal.",
+    "notes": "Praia ampla e muito ligada ao lado mais atlântico e forte de Viana.",
+    "best_for": [
+      "ondas",
+      "paisagem",
+      "mais espaço"
+    ],
+    "caution": "Exposição forte ao vento e mar.",
+    "gmaps": "https://www.google.com/maps?q=41.705,-8.872",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-viana-castelo.pt/areas-de-atividade/comunicacao/noticias/noticia/viana-do-castelo-conquista-mais-duas-bandeiras-azuis-e-soma-13-nesta-epoca-balnear"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "surf",
+      "blueflag"
+    ],
+    "family_score": 5.8,
+    "family_note": "Muito boa para mar e paisagem, pouco “domesticada”."
+  },
+  {
+    "name": "Praia de São Jacinto",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 40.6689,
+    "lon": -8.7444,
+    "drive_min": 58,
+    "directions": "Segue até à zona de São Jacinto / reserva natural.",
+    "access": "Acesso razoável, com ambiente muito natural.",
+    "facilities": "Praia vigiada e contexto de natureza muito forte.",
+    "notes": "Uma das praias mais bonitas e especiais da zona centro/norte.",
+    "best_for": [
+      "natureza",
+      "paisagem",
+      "dia completo"
+    ],
+    "caution": "Menos simples do que praias urbanas e mais sujeita ao plano do dia.",
+    "gmaps": "https://www.google.com/maps?q=40.6689,-8.7444",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-aveiro.pt/visitantes/visitar/praia-de-sao-jacinto"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "blueflag",
+      "surf",
+      "trail"
+    ],
+    "family_score": 6.8,
+    "family_note": "Boa para quem quer beleza natural e não se importa com logística menos direta."
+  },
+  {
+    "name": "Praia da Barra",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.6426,
+    "lon": -8.7477,
+    "drive_min": 60,
+    "directions": "Segue até Ílhavo/Gafanha da Nazaré na entrada da Ria de Aveiro.",
+    "access": "Acesso fácil e praia urbana muito conhecida.",
+    "facilities": "Bandeira Azul, praia acessível, restauração e muito contexto balnear.",
+    "notes": "Muito boa para dia completo, com farol, praia e ambiente forte.",
+    "best_for": [
+      "famílias",
+      "dia completo",
+      "praia icónica"
+    ],
+    "caution": "Pode ter bastante vento e muita afluência no verão.",
+    "gmaps": "https://www.google.com/maps?q=40.6426,-8.7477",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-ilhavo.pt/viver/ambiente/zonas-costeiras"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "family_score": 8.4,
+    "family_note": "Muito forte em serviços e em sensação de destino."
+  },
+  {
+    "name": "Praia de Carreço",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 41.7453,
+    "lon": -8.884,
+    "drive_min": 60,
+    "directions": "Segue até ao corredor costeiro entre Viana e Afife.",
+    "access": "Acesso razoável.",
+    "facilities": "Praia acessível e apoio sazonal.",
+    "notes": "Praia muito interessante para quem quer norte, espaço e cenário atlântico.",
+    "best_for": [
+      "paisagem",
+      "mais espaço",
+      "day trip"
+    ],
+    "caution": "Exposta ao vento e sem o abrigo de praias urbanas.",
+    "gmaps": "https://www.google.com/maps?q=41.7453,-8.884",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-viana-castelo.pt/areas-de-atividade/comunicacao/noticias/noticia/viana-do-castelo-conquista-mais-duas-bandeiras-azuis-e-soma-13-nesta-epoca-balnear"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "family_score": 6.5,
+    "family_note": "Boa para uma escapada atlântica, menos para simplicidade total."
+  },
+  {
+    "name": "Praia de Afife",
+    "category": "Mais selvagem / mais sossegada",
+    "lat": 41.7724,
+    "lon": -8.8714,
+    "drive_min": 62,
+    "directions": "Segue pela A28 a norte de Viana até Afife.",
+    "access": "Acesso simples e praia muito conhecida no Minho.",
+    "facilities": "Apoio sazonal, estacionamento e muito areal.",
+    "notes": "Excelente para quem quer um grande areal do norte com identidade própria.",
+    "best_for": [
+      "mais espaço",
+      "surf",
+      "dia completo"
+    ],
+    "caution": "Muito exposta ao vento e à ondulação.",
+    "gmaps": "https://www.google.com/maps?q=41.7724,-8.8714",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-viana-castelo.pt/areas-de-atividade/comunicacao/noticias/noticia/viana-do-castelo-conquista-mais-duas-bandeiras-azuis-e-soma-13-nesta-epoca-balnear"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "surf",
+      "blueflag"
+    ],
+    "family_score": 6.7,
+    "family_note": "Boa para espaço e paisagem; mais desafiante para família pequena."
+  },
+  {
+    "name": "Praia da Costa Nova",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.6112,
+    "lon": -8.7516,
+    "drive_min": 64,
+    "directions": "Continua a sul da Barra até à Costa Nova.",
+    "access": "Acesso fácil, com passadiços e boa estrutura.",
+    "facilities": "Bandeira Azul, praia acessível, restauração e zona muito viva.",
+    "notes": "Praia muito boa para famílias e para quem quer um dos cenários mais bonitos da costa portuguesa.",
+    "best_for": [
+      "famílias",
+      "fotografia",
+      "palheiros",
+      "dia completo"
+    ],
+    "caution": "Pode ser muito concorrida em dias grandes de verão.",
+    "gmaps": "https://www.google.com/maps?q=40.6112,-8.7516",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-ilhavo.pt/viver/ambiente/zonas-costeiras"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag"
+    ],
+    "family_score": 8.6,
+    "family_note": "Muito completa e com identidade visual fortíssima."
+  },
+  {
+    "name": "Praia da Vagueira",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.5556,
+    "lon": -8.7904,
+    "drive_min": 68,
+    "directions": "Segue para Vagos / Vagueira pelo eixo de Aveiro.",
+    "access": "Acesso fácil, areal extenso e paredão conhecido.",
+    "facilities": "Apoio sazonal, bares, passadiços e tradição de Arte Xávega.",
+    "notes": "Uma das praias mais populares da região, muito boa para dia completo.",
+    "best_for": [
+      "famílias",
+      "tradição",
+      "dia completo"
+    ],
+    "caution": "Vento e mar podem ser exigentes em alguns dias.",
+    "gmaps": "https://www.google.com/maps?q=40.5556,-8.7904",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-vagos.pt/p/zonas_balneares"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "surf"
+    ],
+    "family_score": 8.0,
+    "family_note": "Boa para quem quer um destino balnear grande e já bem montado."
+  },
+  {
+    "name": "Praia do Areão",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.5179,
+    "lon": -8.7925,
+    "drive_min": 72,
+    "directions": "Continua para sul da Vagueira até ao Areão.",
+    "access": "Acesso fácil por passadiços sobre as dunas.",
+    "facilities": "Grande estacionamento, apoio sazonal e praia vigiada.",
+    "notes": "Excelente para famílias que querem espaço e tranquilidade sem perder conforto.",
+    "best_for": [
+      "famílias",
+      "tranquilidade",
+      "mais espaço"
+    ],
+    "caution": "Continua sujeita a vento e mar abertos.",
+    "gmaps": "https://www.google.com/maps?q=40.5179,-8.7925",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-vagos.pt/p/zonas_balneares"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 8.2,
+    "family_note": "Muito boa para família que quer espaço e menos pressão de ocupação."
+  },
+  {
+    "name": "Praia de Mira",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.4558,
+    "lon": -8.8033,
+    "drive_min": 82,
+    "directions": "Segue pela A17 em direção a Mira / Praia de Mira.",
+    "access": "Acesso fácil e praia muito consolidada.",
+    "facilities": "Serviços, apoio balnear, restauração e muito areal.",
+    "notes": "Destino forte para praia de dia completo, com tradição local e ambiente muito balnear.",
+    "best_for": [
+      "famílias",
+      "dia completo",
+      "tradicional"
+    ],
+    "caution": "Mar aberto e vento podem pesar conforme o dia.",
+    "gmaps": "https://www.google.com/maps?q=40.4558,-8.8033",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://turismodocentro.pt/poi/praia-de-mira/"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "surf"
+    ],
+    "family_score": 8.2,
+    "family_note": "Boa para uma saída mais longa com boa recompensa em areal e estrutura."
+  },
+  {
+    "name": "Praia da Tocha",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.3149,
+    "lon": -8.8468,
+    "drive_min": 92,
+    "directions": "Segue pela A17 em direção à Tocha.",
+    "access": "Acesso fácil com frente balnear conhecida e areal extenso.",
+    "facilities": "Serviços de praia, palheiros e ambiente tradicional de verão.",
+    "notes": "Muito boa para um dia longo e para quem gosta de praia com identidade própria.",
+    "best_for": [
+      "famílias",
+      "palheiros",
+      "dia completo"
+    ],
+    "caution": "É uma deslocação maior; ideal para dia único e completo.",
+    "gmaps": "https://www.google.com/maps?q=40.3149,-8.8468",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://turismodocentro.pt/poi/praia-da-tocha/"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag"
+    ],
+    "family_score": 7.9,
+    "family_note": "Boa praia-destino a sul do Porto."
+  },
+  {
+    "name": "Praia de Buarcos",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.1745,
+    "lon": -8.8877,
+    "drive_min": 94,
+    "directions": "Segue para a Figueira da Foz e entra na frente marítima urbana de Buarcos.",
+    "access": "Acesso urbano muito fácil.",
+    "facilities": "Serviços urbanos, apoio balnear e muita estrutura na cidade.",
+    "notes": "Muito boa para quem quer praia-destino com cidade, restauração e passeio.",
+    "best_for": [
+      "famílias",
+      "cidade + mar",
+      "dia completo"
+    ],
+    "caution": "Pode ser bastante concorrida no verão.",
+    "gmaps": "https://www.google.com/maps?q=40.1745,-8.8877",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-figfoz.pt/pages/1010?news_id=2699"
+      }
+    ],
+    "features": [
+      "wc",
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "blueflag",
+      "accessible"
+    ],
+    "family_score": 8.0,
+    "family_note": "Forte em comodidade e vida urbana colada à praia."
+  },
+  {
+    "name": "Praia de Quiaios",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.2186,
+    "lon": -8.8847,
+    "drive_min": 96,
+    "directions": "Segue até ao litoral norte da Figueira da Foz, na direção de Quiaios.",
+    "access": "Acesso fácil com passadiço e infraestruturas.",
+    "facilities": "Praia vigiada, apoio sazonal e grande areal.",
+    "notes": "Boa para combinar serra/dunas e praia, com enorme sensação de espaço.",
+    "best_for": [
+      "famílias",
+      "mais espaço",
+      "dia completo"
+    ],
+    "caution": "Vento e mar fortes são frequentes.",
+    "gmaps": "https://www.google.com/maps?q=40.2186,-8.8847",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-figfoz.pt/pages/1010?news_id=2699"
+      }
+    ],
+    "features": [
+      "parking",
+      "lifeguard",
+      "blueflag",
+      "accessible",
+      "surf"
+    ],
+    "family_score": 7.8,
+    "family_note": "Boa para um dia completo se quiseres um areal enorme."
+  },
+  {
+    "name": "Praia do Cabedelo (Figueira)",
+    "category": "Acesso fácil + facilidades",
+    "lat": 40.1425,
+    "lon": -8.8606,
+    "drive_min": 96,
+    "directions": "Segue para a margem sul da Figueira da Foz, no estuário do Mondego.",
+    "access": "Acesso fácil com grande sistema dunar.",
+    "facilities": "Apoio sazonal, praia acessível e bom enquadramento para surf e banhos.",
+    "notes": "Praia muito forte da Figueira, equilibrada entre mar, areia e apoio.",
+    "best_for": [
+      "surf",
+      "famílias",
+      "mais espaço"
+    ],
+    "caution": "Dependente do vento e da ondulação do dia.",
+    "gmaps": "https://www.google.com/maps?q=40.1425,-8.8606",
+    "official_links": [
+      {
+        "label": "Fonte oficial",
+        "url": "https://www.cm-figfoz.pt/pages/1010?news_id=2699"
+      }
+    ],
+    "features": [
+      "parking",
+      "restaurant",
+      "lifeguard",
+      "accessible",
+      "blueflag",
+      "surf"
+    ],
+    "family_score": 8.0,
+    "family_note": "Muito boa opção a sul da Figueira para dia completo."
+  }
+]
