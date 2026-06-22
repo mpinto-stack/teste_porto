@@ -1,6 +1,6 @@
 {
-  "generated_at_local": null,
-  "generated_at_utc": null,
-  "source": "init",
+  "generated_at_local": "2026-06-22T17:42:21.357378+01:00",
+  "generated_at_utc": "2026-06-22T16:42:21.357378+00:00",
+  "source": "github-actions",
   "expected_refresh_hours": 4
 }
