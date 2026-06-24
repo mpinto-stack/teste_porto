@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-06-24T19:08:21.660518+01:00",
-  "generated_at_utc": "2026-06-24T18:08:21.660518+00:00",
+  "generated_at_local": "2026-06-24T22:46:52.429723+01:00",
+  "generated_at_utc": "2026-06-24T21:46:52.429723+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
@@ -186,29 +186,7 @@
     },
     {
       "name": "Praia do Homem do Leme",
-      "days": [
-        {
-          "date": "2026-06-24",
-          "temp_max": 21.5,
-          "temp_min": 18.2,
-          "wind_speed_10m_max": 10.2,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-06-25",
-          "temp_max": 21.5,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 20.4,
-          "weather_code": 95
-        },
-        {
-          "date": "2026-06-26",
-          "temp_max": 21.5,
-          "temp_min": 18.6,
-          "wind_speed_10m_max": 16.8,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Cabo do Mundo",
@@ -342,7 +320,29 @@
     },
     {
       "name": "Praia Internacional",
-      "days": []
+      "days": [
+        {
+          "date": "2026-06-24",
+          "temp_max": 21.5,
+          "temp_min": 18.3,
+          "wind_speed_10m_max": 10.2,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-06-25",
+          "temp_max": 21.5,
+          "temp_min": 18.4,
+          "wind_speed_10m_max": 20.4,
+          "weather_code": 95
+        },
+        {
+          "date": "2026-06-26",
+          "temp_max": 21.6,
+          "temp_min": 18.6,
+          "wind_speed_10m_max": 16.8,
+          "weather_code": 80
+        }
+      ]
     },
     {
       "name": "Praia da Agudela",
@@ -372,29 +372,7 @@
     },
     {
       "name": "Praia do Senhor da Pedra",
-      "days": [
-        {
-          "date": "2026-06-24",
-          "temp_max": 21.8,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 10.2,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-06-25",
-          "temp_max": 21.5,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 17.6,
-          "weather_code": 95
-        },
-        {
-          "date": "2026-06-26",
-          "temp_max": 21.9,
-          "temp_min": 18.8,
-          "wind_speed_10m_max": 16.0,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Azurara",
@@ -606,29 +584,7 @@
     },
     {
       "name": "Praia da Lagoa",
-      "days": [
-        {
-          "date": "2026-06-24",
-          "temp_max": 21.3,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 11.9,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-06-25",
-          "temp_max": 21.5,
-          "temp_min": 18.2,
-          "wind_speed_10m_max": 22.9,
-          "weather_code": 95
-        },
-        {
-          "date": "2026-06-26",
-          "temp_max": 21.3,
-          "temp_min": 18.3,
-          "wind_speed_10m_max": 20.0,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Mindelo",
@@ -658,7 +614,29 @@
     },
     {
       "name": "Praia Verde",
-      "days": []
+      "days": [
+        {
+          "date": "2026-06-24",
+          "temp_max": 21.3,
+          "temp_min": 17.7,
+          "wind_speed_10m_max": 11.9,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-06-25",
+          "temp_max": 21.5,
+          "temp_min": 18.2,
+          "wind_speed_10m_max": 22.9,
+          "weather_code": 95
+        },
+        {
+          "date": "2026-06-26",
+          "temp_max": 21.3,
+          "temp_min": 18.3,
+          "wind_speed_10m_max": 20.0,
+          "weather_code": 80
+        }
+      ]
     },
     {
       "name": "Praia de Silvalde / Pau da Manobra",
@@ -792,29 +770,7 @@
     },
     {
       "name": "Praia de Vila Chã",
-      "days": [
-        {
-          "date": "2026-06-24",
-          "temp_max": 22.2,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 12.1,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-06-25",
-          "temp_max": 22.2,
-          "temp_min": 18.5,
-          "wind_speed_10m_max": 21.2,
-          "weather_code": 80
-        },
-        {
-          "date": "2026-06-26",
-          "temp_max": 22.2,
-          "temp_min": 18.5,
-          "wind_speed_10m_max": 19.1,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Fragosa",
@@ -974,7 +930,29 @@
     },
     {
       "name": "Praia de Suave Mar",
-      "days": []
+      "days": [
+        {
+          "date": "2026-06-24",
+          "temp_max": 22.1,
+          "temp_min": 17.7,
+          "wind_speed_10m_max": 10.4,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-06-25",
+          "temp_max": 21.8,
+          "temp_min": 18.1,
+          "wind_speed_10m_max": 19.9,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-06-26",
+          "temp_max": 21.9,
+          "temp_min": 18.1,
+          "wind_speed_10m_max": 18.8,
+          "weather_code": 80
+        }
+      ]
     },
     {
       "name": "Praia do Torrão do Lameiro",
@@ -1004,29 +982,7 @@
     },
     {
       "name": "Praia da Apúlia",
-      "days": [
-        {
-          "date": "2026-06-24",
-          "temp_max": 22.1,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 10.4,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-06-25",
-          "temp_max": 21.8,
-          "temp_min": 18.1,
-          "wind_speed_10m_max": 19.9,
-          "weather_code": 80
-        },
-        {
-          "date": "2026-06-26",
-          "temp_max": 21.9,
-          "temp_min": 18.1,
-          "wind_speed_10m_max": 18.8,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Cabedelo (Viana)",
