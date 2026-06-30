@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-06-30T19:13:16.766820+01:00",
-  "generated_at_utc": "2026-06-30T18:13:16.766820+00:00",
+  "generated_at_local": "2026-06-30T22:48:09.304169+01:00",
+  "generated_at_utc": "2026-06-30T21:48:09.304169+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
@@ -264,29 +264,7 @@
     },
     {
       "name": "Praia de Gondarém",
-      "days": [
-        {
-          "date": "2026-06-30",
-          "temp_max": 23.9,
-          "temp_min": 17.8,
-          "wind_speed_10m_max": 18.3,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-01",
-          "temp_max": 27.8,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 15.6,
-          "weather_code": 2
-        },
-        {
-          "date": "2026-07-02",
-          "temp_max": 33.6,
-          "temp_min": 22.8,
-          "wind_speed_10m_max": 16.0,
-          "weather_code": 2
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Madalena Norte",
@@ -498,7 +476,29 @@
     },
     {
       "name": "Praia Azul",
-      "days": []
+      "days": [
+        {
+          "date": "2026-06-30",
+          "temp_max": 24.0,
+          "temp_min": 17.5,
+          "wind_speed_10m_max": 16.6,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-01",
+          "temp_max": 28.4,
+          "temp_min": 17.5,
+          "wind_speed_10m_max": 13.7,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-02",
+          "temp_max": 34.7,
+          "temp_min": 23.1,
+          "wind_speed_10m_max": 17.6,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia da Aguda",
@@ -528,29 +528,7 @@
     },
     {
       "name": "Praia da Rua 37",
-      "days": [
-        {
-          "date": "2026-06-30",
-          "temp_max": 24.0,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 16.6,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-01",
-          "temp_max": 28.4,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 13.7,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-02",
-          "temp_max": 34.7,
-          "temp_min": 23.1,
-          "wind_speed_10m_max": 17.6,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Angeiras Sul",
@@ -788,29 +766,7 @@
     },
     {
       "name": "Praia de Valadares Sul",
-      "days": [
-        {
-          "date": "2026-06-30",
-          "temp_max": 24.1,
-          "temp_min": 17.6,
-          "wind_speed_10m_max": 16.6,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-01",
-          "temp_max": 28.5,
-          "temp_min": 17.5,
-          "wind_speed_10m_max": 13.7,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-02",
-          "temp_max": 34.7,
-          "temp_min": 23.2,
-          "wind_speed_10m_max": 17.6,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Vila Chã",
@@ -918,7 +874,29 @@
     },
     {
       "name": "Praia do Quião",
-      "days": []
+      "days": [
+        {
+          "date": "2026-06-30",
+          "temp_max": 23.4,
+          "temp_min": 17.0,
+          "wind_speed_10m_max": 23.8,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-01",
+          "temp_max": 26.6,
+          "temp_min": 18.0,
+          "wind_speed_10m_max": 16.9,
+          "weather_code": 2
+        },
+        {
+          "date": "2026-07-02",
+          "temp_max": 32.0,
+          "temp_min": 21.9,
+          "wind_speed_10m_max": 14.1,
+          "weather_code": 1
+        }
+      ]
     },
     {
       "name": "Praia de Ofir",
@@ -1026,29 +1004,7 @@
     },
     {
       "name": "Praia da Apúlia",
-      "days": [
-        {
-          "date": "2026-06-30",
-          "temp_max": 25.9,
-          "temp_min": 16.5,
-          "wind_speed_10m_max": 18.7,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-01",
-          "temp_max": 31.0,
-          "temp_min": 16.4,
-          "wind_speed_10m_max": 14.0,
-          "weather_code": 2
-        },
-        {
-          "date": "2026-07-02",
-          "temp_max": 34.3,
-          "temp_min": 20.3,
-          "wind_speed_10m_max": 10.2,
-          "weather_code": 1
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Cabedelo (Viana)",
@@ -1260,33 +1216,33 @@
     },
     {
       "name": "Praia do Areão",
-      "days": []
-    },
-    {
-      "name": "Praia de Mira",
       "days": [
         {
           "date": "2026-06-30",
-          "temp_max": 24.1,
-          "temp_min": 17.9,
-          "wind_speed_10m_max": 19.9,
+          "temp_max": 23.5,
+          "temp_min": 18.1,
+          "wind_speed_10m_max": 22.5,
           "weather_code": 45
         },
         {
           "date": "2026-07-01",
-          "temp_max": 27.5,
-          "temp_min": 16.7,
-          "wind_speed_10m_max": 15.6,
+          "temp_max": 26.3,
+          "temp_min": 17.0,
+          "wind_speed_10m_max": 17.4,
           "weather_code": 45
         },
         {
           "date": "2026-07-02",
-          "temp_max": 30.9,
-          "temp_min": 20.0,
-          "wind_speed_10m_max": 12.2,
+          "temp_max": 29.7,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 13.5,
           "weather_code": 3
         }
       ]
+    },
+    {
+      "name": "Praia de Mira",
+      "days": []
     },
     {
       "name": "Praia da Tocha",
