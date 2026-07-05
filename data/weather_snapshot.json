@@ -1,385 +1,385 @@
 {
-  "generated_at_local": "2026-07-05T11:27:31.586213+01:00",
-  "generated_at_utc": "2026-07-05T10:27:31.586213+00:00",
+  "generated_at_local": "2026-07-05T15:07:49.082050+01:00",
+  "generated_at_utc": "2026-07-05T14:07:49.082050+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
-      "temperature_2m": 29.3,
-      "wind_speed_10m": 3.8,
-      "wind_direction_10m": 253,
-      "weather_code": 3
+      "temperature_2m": 31.1,
+      "wind_speed_10m": 10.4,
+      "wind_direction_10m": 270,
+      "weather_code": 0
     },
     {
       "name": "Praia do Aterro",
-      "temperature_2m": 25.8,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "temperature_2m": 27.4,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
+      "weather_code": 0
     },
     {
       "name": "Praia da Boa Nova-Senhora",
-      "temperature_2m": 26.0,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
+      "weather_code": 0
     },
     {
       "name": "Praia de Leça da Palmeira",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "temperature_2m": 27.4,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
+      "weather_code": 0
     },
     {
       "name": "Praia de Salgueiros",
-      "temperature_2m": 29.3,
-      "wind_speed_10m": 3.8,
-      "wind_direction_10m": 253,
-      "weather_code": 3
+      "temperature_2m": 31.1,
+      "wind_speed_10m": 10.4,
+      "wind_direction_10m": 270,
+      "weather_code": 0
     },
     {
       "name": "Praia do Castelo do Queijo",
-      "temperature_2m": 26.0,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
+      "weather_code": 0
     },
     {
       "name": "Praia de Canide Norte",
-      "temperature_2m": 29.3,
-      "wind_speed_10m": 3.8,
-      "wind_direction_10m": 253,
-      "weather_code": 3
+      "temperature_2m": 31.1,
+      "wind_speed_10m": 10.4,
+      "wind_direction_10m": 270,
+      "weather_code": 0
     },
     {
       "name": "Praia do Homem do Leme",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
+      "weather_code": 0
     },
     {
       "name": "Praia do Cabo do Mundo",
-      "temperature_2m": 26.0,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
+      "weather_code": 0
     },
     {
       "name": "Praia do Molhe",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
+      "weather_code": 0
     },
     {
       "name": "Praia de Gondarém",
-      "temperature_2m": 26.0,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
+      "weather_code": 0
     },
     {
       "name": "Praia de Madalena Norte",
-      "temperature_2m": 29.3,
-      "wind_speed_10m": 3.8,
-      "wind_direction_10m": 253,
-      "weather_code": 3
+      "temperature_2m": 31.1,
+      "wind_speed_10m": 10.4,
+      "wind_direction_10m": 270,
+      "weather_code": 0
     },
     {
-      "name": "Praia dos Ingleses",
-      "temperature_2m": 26.0,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "name": "Praia dos Ingleses"
     },
     {
       "name": "Praia Internacional",
-      "temperature_2m": 26.0,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 257,
-      "weather_code": 3
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
+      "weather_code": 0
     },
     {
-      "name": "Praia da Agudela"
+      "name": "Praia da Agudela",
+      "temperature_2m": 29.6,
+      "wind_speed_10m": 10.1,
+      "wind_direction_10m": 276,
+      "weather_code": 1
     },
     {
       "name": "Praia do Senhor da Pedra",
-      "temperature_2m": 27.5,
-      "wind_speed_10m": 2.9,
-      "wind_direction_10m": 277,
-      "weather_code": 3
+      "temperature_2m": 28.3,
+      "wind_speed_10m": 10.1,
+      "wind_direction_10m": 276,
+      "weather_code": 1
     },
     {
       "name": "Praia de Azurara",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 5.0,
-      "wind_direction_10m": 249,
-      "weather_code": 3
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 9.3,
+      "wind_direction_10m": 283,
+      "weather_code": 1
     },
     {
       "name": "Praia da Baía",
-      "temperature_2m": 27.2,
-      "wind_speed_10m": 4.7,
-      "wind_direction_10m": 279,
+      "temperature_2m": 28.8,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
       "weather_code": 1
     },
     {
       "name": "Praia de Miramar",
-      "temperature_2m": 27.6,
-      "wind_speed_10m": 2.9,
-      "wind_direction_10m": 277,
-      "weather_code": 3
+      "temperature_2m": 28.3,
+      "wind_speed_10m": 10.1,
+      "wind_direction_10m": 276,
+      "weather_code": 1
     },
     {
       "name": "Praia Azul",
-      "temperature_2m": 27.1,
-      "wind_speed_10m": 4.7,
-      "wind_direction_10m": 279,
+      "temperature_2m": 28.7,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
       "weather_code": 1
     },
     {
       "name": "Praia da Aguda",
-      "temperature_2m": 27.6,
-      "wind_speed_10m": 2.9,
-      "wind_direction_10m": 277,
-      "weather_code": 3
+      "temperature_2m": 28.3,
+      "wind_speed_10m": 10.1,
+      "wind_direction_10m": 276,
+      "weather_code": 1
     },
     {
       "name": "Praia da Rua 37",
-      "temperature_2m": 27.1,
-      "wind_speed_10m": 4.7,
-      "wind_direction_10m": 279,
+      "temperature_2m": 28.7,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
       "weather_code": 1
     },
     {
       "name": "Praia de Angeiras Sul",
-      "temperature_2m": 27.9,
-      "wind_speed_10m": 4.7,
-      "wind_direction_10m": 266,
-      "weather_code": 3
-    },
-    {
-      "name": "Praia de Árvore",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 5.0,
-      "wind_direction_10m": 249,
-      "weather_code": 3
-    },
-    {
-      "name": "Praia da Lagoa",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 5.0,
-      "wind_direction_10m": 249,
-      "weather_code": 3
-    },
-    {
-      "name": "Praia de Mindelo",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 5.0,
-      "wind_direction_10m": 249,
-      "weather_code": 3
-    },
-    {
-      "name": "Praia Verde",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 5.0,
-      "wind_direction_10m": 249,
-      "weather_code": 3
-    },
-    {
-      "name": "Praia de Silvalde / Pau da Manobra",
-      "temperature_2m": 27.2,
-      "wind_speed_10m": 4.7,
-      "wind_direction_10m": 279,
+      "temperature_2m": 29.6,
+      "wind_speed_10m": 10.1,
+      "wind_direction_10m": 276,
       "weather_code": 1
     },
     {
-      "name": "Praia de Esmoriz",
-      "temperature_2m": 28.0,
-      "wind_speed_10m": 5.2,
-      "wind_direction_10m": 282,
-      "weather_code": 2
+      "name": "Praia de Árvore",
+      "temperature_2m": 27.6,
+      "wind_speed_10m": 9.3,
+      "wind_direction_10m": 283,
+      "weather_code": 1
     },
     {
-      "name": "Praia de Paimó"
+      "name": "Praia da Lagoa",
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 9.3,
+      "wind_direction_10m": 283,
+      "weather_code": 1
+    },
+    {
+      "name": "Praia de Mindelo",
+      "temperature_2m": 27.6,
+      "wind_speed_10m": 9.3,
+      "wind_direction_10m": 283,
+      "weather_code": 1
+    },
+    {
+      "name": "Praia Verde",
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 9.3,
+      "wind_direction_10m": 283,
+      "weather_code": 1
+    },
+    {
+      "name": "Praia de Silvalde / Pau da Manobra"
+    },
+    {
+      "name": "Praia de Esmoriz",
+      "temperature_2m": 30.0,
+      "wind_speed_10m": 8.9,
+      "wind_direction_10m": 291,
+      "weather_code": 1
+    },
+    {
+      "name": "Praia de Paimó",
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 9.3,
+      "wind_direction_10m": 283,
+      "weather_code": 1
     },
     {
       "name": "Praia de Paramos",
-      "temperature_2m": 28.1,
-      "wind_speed_10m": 5.2,
-      "wind_direction_10m": 282,
-      "weather_code": 2
+      "temperature_2m": 30.1,
+      "wind_speed_10m": 8.9,
+      "wind_direction_10m": 291,
+      "weather_code": 1
     },
     {
       "name": "Praia de Valadares Sul",
-      "temperature_2m": 27.2,
-      "wind_speed_10m": 4.7,
-      "wind_direction_10m": 279,
+      "temperature_2m": 28.8,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 275,
       "weather_code": 1
     },
     {
       "name": "Praia de Vila Chã",
-      "temperature_2m": 27.8,
-      "wind_speed_10m": 4.5,
-      "wind_direction_10m": 256,
-      "weather_code": 3
+      "temperature_2m": 30.6,
+      "wind_speed_10m": 10.2,
+      "wind_direction_10m": 278,
+      "weather_code": 1
     },
     {
       "name": "Praia da Fragosa",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 5.0,
-      "wind_direction_10m": 249,
-      "weather_code": 3
+      "temperature_2m": 27.6,
+      "wind_speed_10m": 9.3,
+      "wind_direction_10m": 283,
+      "weather_code": 1
     },
     {
       "name": "Praia de Cortegaça",
-      "temperature_2m": 28.0,
-      "wind_speed_10m": 5.2,
-      "wind_direction_10m": 282,
-      "weather_code": 2
+      "temperature_2m": 30.0,
+      "wind_speed_10m": 8.9,
+      "wind_direction_10m": 291,
+      "weather_code": 1
     },
     {
       "name": "Praia de Labruge",
-      "temperature_2m": 27.9,
-      "wind_speed_10m": 4.7,
-      "wind_direction_10m": 266,
-      "weather_code": 3
+      "temperature_2m": 29.6,
+      "wind_speed_10m": 10.1,
+      "wind_direction_10m": 276,
+      "weather_code": 1
     },
     {
       "name": "Praia do Quião",
-      "temperature_2m": 25.9,
-      "wind_speed_10m": 5.0,
-      "wind_direction_10m": 249,
-      "weather_code": 3
+      "temperature_2m": 27.5,
+      "wind_speed_10m": 9.3,
+      "wind_direction_10m": 283,
+      "weather_code": 1
     },
     {
       "name": "Praia de Ofir",
-      "temperature_2m": 27.3,
-      "wind_speed_10m": 5.6,
-      "wind_direction_10m": 255,
+      "temperature_2m": 30.4,
+      "wind_speed_10m": 10.5,
+      "wind_direction_10m": 292,
       "weather_code": 1
     },
     {
       "name": "Praia do Furadouro",
-      "temperature_2m": 27.8,
-      "wind_speed_10m": 6.0,
-      "wind_direction_10m": 287,
-      "weather_code": 2
+      "temperature_2m": 29.7,
+      "wind_speed_10m": 10.3,
+      "wind_direction_10m": 299,
+      "weather_code": 1
     },
     {
       "name": "Praia de Suave Mar",
-      "temperature_2m": 27.3,
-      "wind_speed_10m": 5.6,
-      "wind_direction_10m": 255,
+      "temperature_2m": 30.4,
+      "wind_speed_10m": 10.5,
+      "wind_direction_10m": 292,
       "weather_code": 1
     },
     {
       "name": "Praia do Torrão do Lameiro",
-      "temperature_2m": 27.8,
-      "wind_speed_10m": 7.0,
-      "wind_direction_10m": 291,
-      "weather_code": 2
+      "temperature_2m": 30.0,
+      "wind_speed_10m": 11.8,
+      "wind_direction_10m": 301,
+      "weather_code": 1
     },
     {
       "name": "Praia da Apúlia",
-      "temperature_2m": 27.3,
-      "wind_speed_10m": 5.6,
-      "wind_direction_10m": 255,
+      "temperature_2m": 30.4,
+      "wind_speed_10m": 10.5,
+      "wind_direction_10m": 292,
       "weather_code": 1
     },
     {
       "name": "Praia do Cabedelo (Viana)",
-      "temperature_2m": 27.9,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 243,
-      "weather_code": 3
-    },
-    {
-      "name": "Praia Norte (Viana)",
-      "temperature_2m": 27.9,
-      "wind_speed_10m": 4.8,
-      "wind_direction_10m": 243,
-      "weather_code": 3
-    },
-    {
-      "name": "Praia de São Jacinto",
-      "temperature_2m": 25.8,
-      "wind_speed_10m": 6.4,
-      "wind_direction_10m": 297,
+      "temperature_2m": 31.1,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 270,
       "weather_code": 2
     },
     {
-      "name": "Praia da Barra"
+      "name": "Praia Norte (Viana)"
+    },
+    {
+      "name": "Praia de São Jacinto",
+      "temperature_2m": 28.5,
+      "wind_speed_10m": 10.2,
+      "wind_direction_10m": 309,
+      "weather_code": 3
+    },
+    {
+      "name": "Praia da Barra",
+      "temperature_2m": 30.8,
+      "wind_speed_10m": 10.9,
+      "wind_direction_10m": 314,
+      "weather_code": 3
     },
     {
       "name": "Praia de Carreço",
-      "temperature_2m": 25.4,
-      "wind_speed_10m": 4.9,
-      "wind_direction_10m": 216,
-      "weather_code": 3
+      "temperature_2m": 27.7,
+      "wind_speed_10m": 6.9,
+      "wind_direction_10m": 313,
+      "weather_code": 1
     },
     {
       "name": "Praia de Afife",
-      "temperature_2m": 25.4,
-      "wind_speed_10m": 4.9,
-      "wind_direction_10m": 216,
-      "weather_code": 3
+      "temperature_2m": 27.7,
+      "wind_speed_10m": 6.9,
+      "wind_direction_10m": 313,
+      "weather_code": 1
     },
     {
       "name": "Praia da Costa Nova",
-      "temperature_2m": 24.8,
-      "wind_speed_10m": 5.7,
-      "wind_direction_10m": 305,
+      "temperature_2m": 28.1,
+      "wind_speed_10m": 8.7,
+      "wind_direction_10m": 330,
       "weather_code": 2
     },
     {
       "name": "Praia da Vagueira",
-      "temperature_2m": 24.8,
-      "wind_speed_10m": 5.7,
-      "wind_direction_10m": 305,
+      "temperature_2m": 28.1,
+      "wind_speed_10m": 8.7,
+      "wind_direction_10m": 330,
       "weather_code": 2
     },
     {
       "name": "Praia do Areão",
-      "temperature_2m": 26.4,
-      "wind_speed_10m": 6.1,
-      "wind_direction_10m": 310,
-      "weather_code": 2
-    },
-    {
-      "name": "Praia de Mira",
-      "temperature_2m": 27.6,
-      "wind_speed_10m": 6.1,
-      "wind_direction_10m": 315,
-      "weather_code": 2
-    },
-    {
-      "name": "Praia da Tocha",
-      "temperature_2m": 26.2,
-      "wind_speed_10m": 6.2,
+      "temperature_2m": 30.5,
+      "wind_speed_10m": 10.3,
       "wind_direction_10m": 324,
       "weather_code": 3
     },
     {
+      "name": "Praia de Mira",
+      "temperature_2m": 32.5,
+      "wind_speed_10m": 10.9,
+      "wind_direction_10m": 316,
+      "weather_code": 3
+    },
+    {
+      "name": "Praia da Tocha",
+      "temperature_2m": 28.0,
+      "wind_speed_10m": 12.0,
+      "wind_direction_10m": 311,
+      "weather_code": 3
+    },
+    {
       "name": "Praia de Buarcos",
-      "temperature_2m": 26.1,
-      "wind_speed_10m": 6.1,
-      "wind_direction_10m": 315,
+      "temperature_2m": 28.7,
+      "wind_speed_10m": 10.0,
+      "wind_direction_10m": 319,
       "weather_code": 3
     },
     {
       "name": "Praia de Quiaios",
-      "temperature_2m": 26.2,
-      "wind_speed_10m": 6.1,
-      "wind_direction_10m": 315,
+      "temperature_2m": 28.8,
+      "wind_speed_10m": 10.0,
+      "wind_direction_10m": 319,
       "weather_code": 3
     },
     {
       "name": "Praia do Cabedelo (Figueira)",
-      "temperature_2m": 24.9,
-      "wind_speed_10m": 6.3,
-      "wind_direction_10m": 301,
+      "temperature_2m": 27.2,
+      "wind_speed_10m": 8.3,
+      "wind_direction_10m": 304,
       "weather_code": 3
     }
   ]
