@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-07-07T19:20:29.822341+01:00",
-  "generated_at_utc": "2026-07-07T18:20:29.822341+00:00",
+  "generated_at_local": "2026-07-07T22:40:51.532620+01:00",
+  "generated_at_utc": "2026-07-07T21:40:51.532620+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
@@ -264,7 +264,29 @@
     },
     {
       "name": "Praia de Gondarém",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-07",
+          "temp_max": 20.6,
+          "temp_min": 17.1,
+          "wind_speed_10m_max": 16.5,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-08",
+          "temp_max": 20.4,
+          "temp_min": 16.5,
+          "wind_speed_10m_max": 14.3,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-09",
+          "temp_max": 20.1,
+          "temp_min": 16.5,
+          "wind_speed_10m_max": 13.6,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia de Madalena Norte",
@@ -320,29 +342,7 @@
     },
     {
       "name": "Praia Internacional",
-      "days": [
-        {
-          "date": "2026-07-07",
-          "temp_max": 20.6,
-          "temp_min": 17.1,
-          "wind_speed_10m_max": 16.5,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-08",
-          "temp_max": 20.4,
-          "temp_min": 16.5,
-          "wind_speed_10m_max": 14.3,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-09",
-          "temp_max": 20.1,
-          "temp_min": 16.5,
-          "wind_speed_10m_max": 13.6,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Agudela",
@@ -528,7 +528,29 @@
     },
     {
       "name": "Praia da Rua 37",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-07",
+          "temp_max": 21.3,
+          "temp_min": 17.1,
+          "wind_speed_10m_max": 15.0,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-08",
+          "temp_max": 20.8,
+          "temp_min": 17.0,
+          "wind_speed_10m_max": 12.6,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-09",
+          "temp_max": 20.8,
+          "temp_min": 16.6,
+          "wind_speed_10m_max": 11.4,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia de Angeiras Sul",
@@ -662,29 +684,7 @@
     },
     {
       "name": "Praia de Silvalde / Pau da Manobra",
-      "days": [
-        {
-          "date": "2026-07-07",
-          "temp_max": 21.4,
-          "temp_min": 17.2,
-          "wind_speed_10m_max": 15.0,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-08",
-          "temp_max": 20.9,
-          "temp_min": 17.1,
-          "wind_speed_10m_max": 12.6,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-09",
-          "temp_max": 20.9,
-          "temp_min": 16.6,
-          "wind_speed_10m_max": 11.4,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Esmoriz",
@@ -792,7 +792,29 @@
     },
     {
       "name": "Praia de Vila Chã",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-07",
+          "temp_max": 21.5,
+          "temp_min": 17.2,
+          "wind_speed_10m_max": 18.4,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-08",
+          "temp_max": 22.0,
+          "temp_min": 16.4,
+          "wind_speed_10m_max": 15.2,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-09",
+          "temp_max": 20.7,
+          "temp_min": 16.4,
+          "wind_speed_10m_max": 14.2,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia da Fragosa",
@@ -1004,29 +1026,7 @@
     },
     {
       "name": "Praia da Apúlia",
-      "days": [
-        {
-          "date": "2026-07-07",
-          "temp_max": 21.1,
-          "temp_min": 17.0,
-          "wind_speed_10m_max": 18.4,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-08",
-          "temp_max": 21.6,
-          "temp_min": 15.6,
-          "wind_speed_10m_max": 13.9,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-09",
-          "temp_max": 20.3,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 14.1,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Cabedelo (Viana)",
@@ -1082,7 +1082,29 @@
     },
     {
       "name": "Praia de São Jacinto",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-07",
+          "temp_max": 21.4,
+          "temp_min": 17.1,
+          "wind_speed_10m_max": 18.5,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-08",
+          "temp_max": 20.9,
+          "temp_min": 16.8,
+          "wind_speed_10m_max": 16.4,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-09",
+          "temp_max": 21.4,
+          "temp_min": 16.6,
+          "wind_speed_10m_max": 16.4,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia da Barra",
@@ -1346,7 +1368,29 @@
     },
     {
       "name": "Praia do Cabedelo (Figueira)",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-07",
+          "temp_max": 21.6,
+          "temp_min": 17.9,
+          "wind_speed_10m_max": 18.1,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-08",
+          "temp_max": 21.9,
+          "temp_min": 17.7,
+          "wind_speed_10m_max": 17.4,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-07-09",
+          "temp_max": 21.8,
+          "temp_min": 17.9,
+          "wind_speed_10m_max": 17.5,
+          "weather_code": 45
+        }
+      ]
     }
   ]
 }
