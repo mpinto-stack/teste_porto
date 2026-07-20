@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-07-20T19:19:41.944471+01:00",
-  "generated_at_utc": "2026-07-20T18:19:41.944471+00:00",
+  "generated_at_local": "2026-07-20T22:24:14.113190+01:00",
+  "generated_at_utc": "2026-07-20T21:24:14.113190+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
@@ -238,7 +238,29 @@
     },
     {
       "name": "Praia do Molhe",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-20",
+          "temp_max": 23.5,
+          "temp_min": 20.1,
+          "wind_speed_10m_max": 14.9,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-07-21",
+          "temp_max": 23.1,
+          "temp_min": 19.2,
+          "wind_speed_10m_max": 12.6,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-07-22",
+          "temp_max": 23.0,
+          "temp_min": 17.2,
+          "wind_speed_10m_max": 11.1,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia de Gondarém",
@@ -320,29 +342,7 @@
     },
     {
       "name": "Praia Internacional",
-      "days": [
-        {
-          "date": "2026-07-20",
-          "temp_max": 23.5,
-          "temp_min": 20.1,
-          "wind_speed_10m_max": 14.9,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-07-21",
-          "temp_max": 23.2,
-          "temp_min": 19.2,
-          "wind_speed_10m_max": 12.6,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-07-22",
-          "temp_max": 23.1,
-          "temp_min": 17.3,
-          "wind_speed_10m_max": 11.1,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Agudela",
@@ -476,7 +476,29 @@
     },
     {
       "name": "Praia Azul",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-20",
+          "temp_max": 23.9,
+          "temp_min": 19.7,
+          "wind_speed_10m_max": 13.7,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-07-21",
+          "temp_max": 23.9,
+          "temp_min": 18.6,
+          "wind_speed_10m_max": 11.3,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-22",
+          "temp_max": 23.5,
+          "temp_min": 17.3,
+          "wind_speed_10m_max": 10.8,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia da Aguda",
@@ -636,29 +658,7 @@
     },
     {
       "name": "Praia Verde",
-      "days": [
-        {
-          "date": "2026-07-20",
-          "temp_max": 23.7,
-          "temp_min": 19.7,
-          "wind_speed_10m_max": 14.8,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-07-21",
-          "temp_max": 23.2,
-          "temp_min": 18.6,
-          "wind_speed_10m_max": 14.0,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-22",
-          "temp_max": 23.1,
-          "temp_min": 17.1,
-          "wind_speed_10m_max": 10.9,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Silvalde / Pau da Manobra",
@@ -714,7 +714,29 @@
     },
     {
       "name": "Praia de Paimó",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-20",
+          "temp_max": 23.7,
+          "temp_min": 19.7,
+          "wind_speed_10m_max": 14.8,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-07-21",
+          "temp_max": 23.2,
+          "temp_min": 18.6,
+          "wind_speed_10m_max": 14.0,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-22",
+          "temp_max": 23.1,
+          "temp_min": 17.1,
+          "wind_speed_10m_max": 10.9,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia de Paramos",
@@ -1190,7 +1212,29 @@
     },
     {
       "name": "Praia da Vagueira",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-20",
+          "temp_max": 23.7,
+          "temp_min": 19.5,
+          "wind_speed_10m_max": 16.5,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-21",
+          "temp_max": 23.9,
+          "temp_min": 18.4,
+          "wind_speed_10m_max": 13.2,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-22",
+          "temp_max": 23.9,
+          "temp_min": 18.1,
+          "wind_speed_10m_max": 11.5,
+          "weather_code": 45
+        }
+      ]
     },
     {
       "name": "Praia do Areão",
@@ -1220,29 +1264,7 @@
     },
     {
       "name": "Praia de Mira",
-      "days": [
-        {
-          "date": "2026-07-20",
-          "temp_max": 24.7,
-          "temp_min": 19.3,
-          "wind_speed_10m_max": 15.3,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-21",
-          "temp_max": 25.1,
-          "temp_min": 17.7,
-          "wind_speed_10m_max": 12.6,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-22",
-          "temp_max": 25.1,
-          "temp_min": 17.4,
-          "wind_speed_10m_max": 12.0,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Tocha",
