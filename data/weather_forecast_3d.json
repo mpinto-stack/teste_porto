@@ -1,22 +1,22 @@
 {
-  "generated_at_local": "2026-07-23T11:36:32.277899+01:00",
-  "generated_at_utc": "2026-07-23T10:36:32.277899+00:00",
+  "generated_at_local": "2026-07-23T15:30:56.531680+01:00",
+  "generated_at_utc": "2026-07-23T14:30:56.531680+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.7,
+          "temp_max": 24.5,
           "temp_min": 19.0,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.5,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.9,
+          "temp_max": 22.5,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 16.3,
+          "wind_speed_10m_max": 15.9,
           "weather_code": 80
         },
         {
@@ -35,12 +35,12 @@
           "date": "2026-07-23",
           "temp_max": 23.5,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.1,
+          "temp_max": 21.8,
           "temp_min": 19.5,
           "wind_speed_10m_max": 17.5,
           "weather_code": 80
@@ -59,14 +59,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.7,
+          "temp_max": 23.6,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 22.0,
           "temp_min": 19.6,
           "wind_speed_10m_max": 17.5,
           "weather_code": 80
@@ -85,14 +85,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.6,
+          "temp_max": 23.5,
           "temp_min": 19.5,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.1,
+          "temp_max": 21.9,
           "temp_min": 19.5,
           "wind_speed_10m_max": 17.5,
           "weather_code": 80
@@ -111,16 +111,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.8,
+          "temp_max": 24.6,
           "temp_min": 19.0,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.5,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.9,
+          "temp_max": 22.6,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 16.3,
+          "wind_speed_10m_max": 15.9,
           "weather_code": 80
         },
         {
@@ -137,14 +137,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.7,
+          "temp_max": 23.6,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 22.0,
           "temp_min": 19.6,
           "wind_speed_10m_max": 17.5,
           "weather_code": 80
@@ -163,16 +163,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.8,
+          "temp_max": 24.6,
           "temp_min": 19.0,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.5,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.9,
+          "temp_max": 22.6,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 16.3,
+          "wind_speed_10m_max": 15.9,
           "weather_code": 80
         },
         {
@@ -191,12 +191,12 @@
           "date": "2026-07-23",
           "temp_max": 23.6,
           "temp_min": 19.5,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 21.9,
           "temp_min": 19.6,
           "wind_speed_10m_max": 17.5,
           "weather_code": 80
@@ -215,14 +215,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.7,
+          "temp_max": 23.6,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 22.0,
           "temp_min": 19.6,
           "wind_speed_10m_max": 17.5,
           "weather_code": 80
@@ -243,12 +243,12 @@
           "date": "2026-07-23",
           "temp_max": 23.6,
           "temp_min": 19.5,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 21.9,
           "temp_min": 19.6,
           "wind_speed_10m_max": 17.5,
           "weather_code": 80
@@ -267,14 +267,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.7,
+          "temp_max": 23.6,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 22.0,
           "temp_min": 19.6,
           "wind_speed_10m_max": 17.5,
           "weather_code": 80
@@ -290,43 +290,21 @@
     },
     {
       "name": "Praia de Madalena Norte",
-      "days": [
-        {
-          "date": "2026-07-23",
-          "temp_max": 24.7,
-          "temp_min": 19.0,
-          "wind_speed_10m_max": 13.6,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-07-24",
-          "temp_max": 22.9,
-          "temp_min": 19.4,
-          "wind_speed_10m_max": 16.3,
-          "weather_code": 80
-        },
-        {
-          "date": "2026-07-25",
-          "temp_max": 24.0,
-          "temp_min": 18.6,
-          "wind_speed_10m_max": 22.0,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia dos Ingleses",
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.7,
+          "temp_max": 23.6,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 13.6,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 22.0,
           "temp_min": 19.6,
           "wind_speed_10m_max": 17.5,
           "weather_code": 80
@@ -342,7 +320,29 @@
     },
     {
       "name": "Praia Internacional",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-23",
+          "temp_max": 23.6,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 13.2,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-07-24",
+          "temp_max": 22.0,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 17.5,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-07-25",
+          "temp_max": 22.8,
+          "temp_min": 18.9,
+          "wind_speed_10m_max": 24.7,
+          "weather_code": 80
+        }
+      ]
     },
     {
       "name": "Praia da Agudela",
@@ -351,12 +351,12 @@
           "date": "2026-07-23",
           "temp_max": 24.5,
           "temp_min": 19.1,
-          "wind_speed_10m_max": 14.2,
+          "wind_speed_10m_max": 14.0,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.6,
+          "temp_max": 22.3,
           "temp_min": 19.6,
           "wind_speed_10m_max": 16.8,
           "weather_code": 80
@@ -375,16 +375,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.8,
+          "temp_max": 23.7,
           "temp_min": 19.3,
-          "wind_speed_10m_max": 14.2,
+          "wind_speed_10m_max": 14.1,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.5,
+          "temp_max": 22.0,
           "temp_min": 19.5,
-          "wind_speed_10m_max": 17.8,
+          "wind_speed_10m_max": 17.4,
           "weather_code": 80
         },
         {
@@ -401,14 +401,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.8,
+          "temp_max": 23.7,
           "temp_min": 18.3,
-          "wind_speed_10m_max": 14.5,
+          "wind_speed_10m_max": 14.3,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 21.8,
           "temp_min": 19.3,
           "wind_speed_10m_max": 17.6,
           "weather_code": 80
@@ -427,16 +427,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.4,
+          "temp_max": 24.3,
           "temp_min": 19.0,
-          "wind_speed_10m_max": 13.2,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.7,
+          "temp_max": 22.3,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 16.9,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 80
         },
         {
@@ -453,16 +453,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.9,
+          "temp_max": 23.8,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 14.2,
+          "wind_speed_10m_max": 14.1,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.5,
+          "temp_max": 22.1,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 17.8,
+          "wind_speed_10m_max": 17.4,
           "weather_code": 80
         },
         {
@@ -479,16 +479,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.3,
+          "temp_max": 24.2,
           "temp_min": 19.0,
-          "wind_speed_10m_max": 13.2,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.7,
+          "temp_max": 22.3,
           "temp_min": 19.3,
-          "wind_speed_10m_max": 16.9,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 80
         },
         {
@@ -505,16 +505,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.9,
+          "temp_max": 23.8,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 14.2,
+          "wind_speed_10m_max": 14.1,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.5,
+          "temp_max": 22.1,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 17.8,
+          "wind_speed_10m_max": 17.4,
           "weather_code": 80
         },
         {
@@ -531,16 +531,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.3,
+          "temp_max": 24.2,
           "temp_min": 19.0,
-          "wind_speed_10m_max": 13.2,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.7,
+          "temp_max": 22.3,
           "temp_min": 19.3,
-          "wind_speed_10m_max": 16.9,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 80
         },
         {
@@ -554,29 +554,7 @@
     },
     {
       "name": "Praia de Angeiras Sul",
-      "days": [
-        {
-          "date": "2026-07-23",
-          "temp_max": 24.5,
-          "temp_min": 19.1,
-          "wind_speed_10m_max": 14.2,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-07-24",
-          "temp_max": 22.6,
-          "temp_min": 19.6,
-          "wind_speed_10m_max": 16.8,
-          "weather_code": 80
-        },
-        {
-          "date": "2026-07-25",
-          "temp_max": 23.6,
-          "temp_min": 18.5,
-          "wind_speed_10m_max": 26.7,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Árvore",
@@ -585,12 +563,12 @@
           "date": "2026-07-23",
           "temp_max": 23.8,
           "temp_min": 18.4,
-          "wind_speed_10m_max": 14.5,
+          "wind_speed_10m_max": 14.3,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.3,
+          "temp_max": 21.9,
           "temp_min": 19.4,
           "wind_speed_10m_max": 17.6,
           "weather_code": 80
@@ -609,14 +587,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.8,
+          "temp_max": 23.7,
           "temp_min": 18.3,
-          "wind_speed_10m_max": 14.5,
+          "wind_speed_10m_max": 14.3,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 21.8,
           "temp_min": 19.3,
           "wind_speed_10m_max": 17.6,
           "weather_code": 80
@@ -637,12 +615,12 @@
           "date": "2026-07-23",
           "temp_max": 23.8,
           "temp_min": 18.4,
-          "wind_speed_10m_max": 14.5,
+          "wind_speed_10m_max": 14.3,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.3,
+          "temp_max": 21.9,
           "temp_min": 19.4,
           "wind_speed_10m_max": 17.6,
           "weather_code": 80
@@ -661,14 +639,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.8,
+          "temp_max": 23.7,
           "temp_min": 18.3,
-          "wind_speed_10m_max": 14.5,
+          "wind_speed_10m_max": 14.3,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 21.8,
           "temp_min": 19.3,
           "wind_speed_10m_max": 17.6,
           "weather_code": 80
@@ -687,16 +665,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.4,
+          "temp_max": 24.3,
           "temp_min": 19.0,
-          "wind_speed_10m_max": 13.2,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.7,
+          "temp_max": 22.3,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 16.9,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 80
         },
         {
@@ -710,21 +688,43 @@
     },
     {
       "name": "Praia de Esmoriz",
-      "days": []
+      "days": [
+        {
+          "date": "2026-07-23",
+          "temp_max": 24.6,
+          "temp_min": 18.7,
+          "wind_speed_10m_max": 12.6,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-07-24",
+          "temp_max": 22.5,
+          "temp_min": 19.2,
+          "wind_speed_10m_max": 14.8,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-07-25",
+          "temp_max": 23.4,
+          "temp_min": 18.6,
+          "wind_speed_10m_max": 22.2,
+          "weather_code": 80
+        }
+      ]
     },
     {
       "name": "Praia de Paimó",
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.8,
+          "temp_max": 23.7,
           "temp_min": 18.3,
-          "wind_speed_10m_max": 14.5,
+          "wind_speed_10m_max": 14.3,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 21.8,
           "temp_min": 19.3,
           "wind_speed_10m_max": 17.6,
           "weather_code": 80
@@ -743,16 +743,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.8,
+          "temp_max": 24.7,
           "temp_min": 18.8,
-          "wind_speed_10m_max": 12.7,
+          "wind_speed_10m_max": 12.6,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.9,
+          "temp_max": 22.6,
           "temp_min": 19.3,
-          "wind_speed_10m_max": 15.1,
+          "wind_speed_10m_max": 14.8,
           "weather_code": 80
         },
         {
@@ -769,16 +769,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.4,
+          "temp_max": 24.3,
           "temp_min": 19.0,
-          "wind_speed_10m_max": 13.2,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.7,
+          "temp_max": 22.3,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 16.9,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 80
         },
         {
@@ -795,14 +795,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.6,
+          "temp_max": 24.4,
           "temp_min": 18.2,
-          "wind_speed_10m_max": 14.8,
+          "wind_speed_10m_max": 14.2,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.5,
+          "temp_max": 22.3,
           "temp_min": 19.1,
           "wind_speed_10m_max": 17.2,
           "weather_code": 80
@@ -818,45 +818,23 @@
     },
     {
       "name": "Praia da Fragosa",
-      "days": [
-        {
-          "date": "2026-07-23",
-          "temp_max": 23.8,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 14.5,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-24",
-          "temp_max": 22.3,
-          "temp_min": 19.4,
-          "wind_speed_10m_max": 17.6,
-          "weather_code": 80
-        },
-        {
-          "date": "2026-07-25",
-          "temp_max": 22.8,
-          "temp_min": 18.5,
-          "wind_speed_10m_max": 28.8,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Cortegaça",
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.7,
+          "temp_max": 24.6,
           "temp_min": 18.7,
-          "wind_speed_10m_max": 12.7,
+          "wind_speed_10m_max": 12.6,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.8,
+          "temp_max": 22.5,
           "temp_min": 19.2,
-          "wind_speed_10m_max": 15.1,
+          "wind_speed_10m_max": 14.8,
           "weather_code": 80
         },
         {
@@ -875,12 +853,12 @@
           "date": "2026-07-23",
           "temp_max": 24.5,
           "temp_min": 19.1,
-          "wind_speed_10m_max": 14.2,
+          "wind_speed_10m_max": 14.0,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.6,
+          "temp_max": 22.3,
           "temp_min": 19.6,
           "wind_speed_10m_max": 16.8,
           "weather_code": 80
@@ -899,14 +877,14 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.8,
+          "temp_max": 23.7,
           "temp_min": 18.3,
-          "wind_speed_10m_max": 14.5,
+          "wind_speed_10m_max": 14.3,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.2,
+          "temp_max": 21.8,
           "temp_min": 19.3,
           "wind_speed_10m_max": 17.6,
           "weather_code": 80
@@ -925,9 +903,9 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.3,
+          "temp_max": 24.1,
           "temp_min": 17.0,
-          "wind_speed_10m_max": 14.7,
+          "wind_speed_10m_max": 14.1,
           "weather_code": 45
         },
         {
@@ -951,16 +929,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.7,
+          "temp_max": 24.6,
           "temp_min": 18.7,
           "wind_speed_10m_max": 13.0,
           "weather_code": 3
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.9,
+          "temp_max": 22.7,
           "temp_min": 19.2,
-          "wind_speed_10m_max": 14.5,
+          "wind_speed_10m_max": 14.1,
           "weather_code": 80
         },
         {
@@ -977,9 +955,9 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.3,
+          "temp_max": 24.1,
           "temp_min": 17.0,
-          "wind_speed_10m_max": 14.7,
+          "wind_speed_10m_max": 14.1,
           "weather_code": 45
         },
         {
@@ -1003,16 +981,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.9,
+          "temp_max": 24.7,
           "temp_min": 18.4,
-          "wind_speed_10m_max": 14.1,
+          "wind_speed_10m_max": 14.0,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 23.0,
-          "temp_min": 19.1,
-          "wind_speed_10m_max": 15.9,
+          "temp_max": 22.8,
+          "temp_min": 19.0,
+          "wind_speed_10m_max": 16.1,
           "weather_code": 80
         },
         {
@@ -1029,9 +1007,9 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.3,
+          "temp_max": 24.1,
           "temp_min": 17.0,
-          "wind_speed_10m_max": 14.7,
+          "wind_speed_10m_max": 14.1,
           "weather_code": 45
         },
         {
@@ -1052,23 +1030,45 @@
     },
     {
       "name": "Praia do Cabedelo (Viana)",
-      "days": []
-    },
-    {
-      "name": "Praia Norte (Viana)",
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.8,
+          "temp_max": 23.7,
           "temp_min": 17.6,
-          "wind_speed_10m_max": 14.9,
+          "wind_speed_10m_max": 14.1,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
           "temp_max": 21.4,
           "temp_min": 19.4,
-          "wind_speed_10m_max": 13.8,
+          "wind_speed_10m_max": 13.6,
+          "weather_code": 80
+        },
+        {
+          "date": "2026-07-25",
+          "temp_max": 23.9,
+          "temp_min": 18.5,
+          "wind_speed_10m_max": 25.1,
+          "weather_code": 3
+        }
+      ]
+    },
+    {
+      "name": "Praia Norte (Viana)",
+      "days": [
+        {
+          "date": "2026-07-23",
+          "temp_max": 23.7,
+          "temp_min": 17.6,
+          "wind_speed_10m_max": 14.1,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-07-24",
+          "temp_max": 21.4,
+          "temp_min": 19.4,
+          "wind_speed_10m_max": 13.6,
           "weather_code": 80
         },
         {
@@ -1082,45 +1082,23 @@
     },
     {
       "name": "Praia de São Jacinto",
-      "days": [
-        {
-          "date": "2026-07-23",
-          "temp_max": 24.4,
-          "temp_min": 19.2,
-          "wind_speed_10m_max": 15.6,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-07-24",
-          "temp_max": 22.8,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 17.7,
-          "weather_code": 80
-        },
-        {
-          "date": "2026-07-25",
-          "temp_max": 23.1,
-          "temp_min": 19.2,
-          "wind_speed_10m_max": 24.7,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Barra",
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 25.2,
+          "temp_max": 25.1,
           "temp_min": 18.8,
-          "wind_speed_10m_max": 15.5,
+          "wind_speed_10m_max": 15.1,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 23.5,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 17.6,
+          "temp_max": 23.4,
+          "temp_min": 19.4,
+          "wind_speed_10m_max": 17.7,
           "weather_code": 80
         },
         {
@@ -1137,16 +1115,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.3,
+          "temp_max": 23.1,
           "temp_min": 18.7,
-          "wind_speed_10m_max": 14.6,
+          "wind_speed_10m_max": 14.0,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
           "temp_max": 21.1,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 12.9,
+          "wind_speed_10m_max": 13.0,
           "weather_code": 80
         },
         {
@@ -1163,16 +1141,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.3,
+          "temp_max": 23.1,
           "temp_min": 18.7,
-          "wind_speed_10m_max": 14.6,
+          "wind_speed_10m_max": 14.0,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
           "temp_max": 21.0,
           "temp_min": 19.6,
-          "wind_speed_10m_max": 12.9,
+          "wind_speed_10m_max": 13.0,
           "weather_code": 80
         },
         {
@@ -1189,17 +1167,17 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.5,
+          "temp_max": 24.3,
           "temp_min": 18.8,
-          "wind_speed_10m_max": 15.3,
+          "wind_speed_10m_max": 14.9,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.9,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 17.3,
-          "weather_code": 45
+          "temp_max": 22.8,
+          "temp_min": 19.4,
+          "wind_speed_10m_max": 18.1,
+          "weather_code": 80
         },
         {
           "date": "2026-07-25",
@@ -1215,17 +1193,17 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.5,
+          "temp_max": 24.3,
           "temp_min": 18.8,
-          "wind_speed_10m_max": 15.3,
+          "wind_speed_10m_max": 14.9,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.9,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 17.3,
-          "weather_code": 45
+          "temp_max": 22.8,
+          "temp_min": 19.4,
+          "wind_speed_10m_max": 18.1,
+          "weather_code": 80
         },
         {
           "date": "2026-07-25",
@@ -1241,17 +1219,17 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 25.2,
+          "temp_max": 24.9,
           "temp_min": 18.4,
-          "wind_speed_10m_max": 15.2,
+          "wind_speed_10m_max": 15.1,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
           "temp_max": 23.3,
-          "temp_min": 19.3,
-          "wind_speed_10m_max": 16.7,
-          "weather_code": 3
+          "temp_min": 19.0,
+          "wind_speed_10m_max": 17.5,
+          "weather_code": 80
         },
         {
           "date": "2026-07-25",
@@ -1267,17 +1245,17 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 25.5,
+          "temp_max": 25.3,
           "temp_min": 18.3,
           "wind_speed_10m_max": 14.4,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 23.5,
-          "temp_min": 19.1,
-          "wind_speed_10m_max": 15.9,
-          "weather_code": 80
+          "temp_max": 23.6,
+          "temp_min": 18.8,
+          "wind_speed_10m_max": 16.1,
+          "weather_code": 3
         },
         {
           "date": "2026-07-25",
@@ -1293,16 +1271,16 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 24.6,
+          "temp_max": 24.4,
           "temp_min": 18.3,
-          "wind_speed_10m_max": 15.9,
+          "wind_speed_10m_max": 15.5,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
           "temp_max": 22.9,
-          "temp_min": 19.9,
-          "wind_speed_10m_max": 18.4,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 18.5,
           "weather_code": 3
         },
         {
@@ -1319,17 +1297,17 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.7,
+          "temp_max": 23.6,
           "temp_min": 19.0,
-          "wind_speed_10m_max": 16.3,
+          "wind_speed_10m_max": 16.2,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.5,
-          "temp_min": 20.3,
-          "wind_speed_10m_max": 20.2,
-          "weather_code": 80
+          "temp_max": 22.4,
+          "temp_min": 20.2,
+          "wind_speed_10m_max": 20.7,
+          "weather_code": 3
         },
         {
           "date": "2026-07-25",
@@ -1345,17 +1323,17 @@
       "days": [
         {
           "date": "2026-07-23",
-          "temp_max": 23.8,
+          "temp_max": 23.7,
           "temp_min": 19.1,
-          "wind_speed_10m_max": 16.3,
+          "wind_speed_10m_max": 16.2,
           "weather_code": 45
         },
         {
           "date": "2026-07-24",
-          "temp_max": 22.6,
-          "temp_min": 20.4,
-          "wind_speed_10m_max": 20.2,
-          "weather_code": 80
+          "temp_max": 22.5,
+          "temp_min": 20.3,
+          "wind_speed_10m_max": 20.7,
+          "weather_code": 3
         },
         {
           "date": "2026-07-25",
