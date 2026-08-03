@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "generated_at_local": "2026-08-03T04:53:19.694433+01:00",
+      "generated_at_utc": "2026-08-03T03:53:19.694433+00:00",
+      "beaches_count": 56,
+      "weather_items": 56,
+      "forecast_items": 56,
+      "sea_points": 12,
+      "source": "github-actions"
+    },
+    {
       "generated_at_local": "2026-08-02T22:10:52.100090+01:00",
       "generated_at_utc": "2026-08-02T21:10:52.100090+00:00",
       "beaches_count": 56,
@@ -165,15 +174,6 @@
     {
       "generated_at_local": "2026-07-30T22:23:05.828981+01:00",
       "generated_at_utc": "2026-07-30T21:23:05.828981+00:00",
-      "beaches_count": 56,
-      "weather_items": 56,
-      "forecast_items": 56,
-      "sea_points": 12,
-      "source": "github-actions"
-    },
-    {
-      "generated_at_local": "2026-07-30T18:48:47.855135+01:00",
-      "generated_at_utc": "2026-07-30T17:48:47.855135+00:00",
       "beaches_count": 56,
       "weather_items": 56,
       "forecast_items": 56,
