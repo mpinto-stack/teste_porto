@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-08-17T14:05:57.924792+01:00",
-  "generated_at_utc": "2026-08-17T13:05:57.924792+00:00",
+  "generated_at_local": "2026-08-17T17:45:23.085528+01:00",
+  "generated_at_utc": "2026-08-17T16:45:23.085528+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
@@ -264,33 +264,33 @@
     },
     {
       "name": "Praia de Gondarém",
-      "days": []
-    },
-    {
-      "name": "Praia de Madalena Norte",
       "days": [
         {
           "date": "2026-08-17",
-          "temp_max": 32.1,
-          "temp_min": 21.4,
-          "wind_speed_10m_max": 10.7,
-          "weather_code": 1
+          "temp_max": 28.7,
+          "temp_min": 21.0,
+          "wind_speed_10m_max": 10.0,
+          "weather_code": 0
         },
         {
           "date": "2026-08-18",
-          "temp_max": 28.7,
-          "temp_min": 21.2,
-          "wind_speed_10m_max": 10.3,
+          "temp_max": 26.3,
+          "temp_min": 20.5,
+          "wind_speed_10m_max": 9.8,
           "weather_code": 3
         },
         {
           "date": "2026-08-19",
-          "temp_max": 24.0,
-          "temp_min": 20.6,
-          "wind_speed_10m_max": 15.5,
-          "weather_code": 3
+          "temp_max": 22.9,
+          "temp_min": 20.4,
+          "wind_speed_10m_max": 15.8,
+          "weather_code": 45
         }
       ]
+    },
+    {
+      "name": "Praia de Madalena Norte",
+      "days": []
     },
     {
       "name": "Praia dos Ingleses",
@@ -554,33 +554,33 @@
     },
     {
       "name": "Praia de Angeiras Sul",
-      "days": []
-    },
-    {
-      "name": "Praia de Árvore",
       "days": [
         {
           "date": "2026-08-17",
-          "temp_max": 27.6,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 14.9,
+          "temp_max": 30.5,
+          "temp_min": 20.7,
+          "wind_speed_10m_max": 13.2,
           "weather_code": 1
         },
         {
           "date": "2026-08-18",
-          "temp_max": 26.1,
-          "temp_min": 18.9,
-          "wind_speed_10m_max": 9.2,
+          "temp_max": 27.9,
+          "temp_min": 20.2,
+          "wind_speed_10m_max": 10.5,
           "weather_code": 3
         },
         {
           "date": "2026-08-19",
-          "temp_max": 22.9,
-          "temp_min": 20.2,
-          "wind_speed_10m_max": 14.6,
+          "temp_max": 23.6,
+          "temp_min": 20.5,
+          "wind_speed_10m_max": 15.8,
           "weather_code": 3
         }
       ]
+    },
+    {
+      "name": "Praia de Árvore",
+      "days": []
     },
     {
       "name": "Praia da Lagoa",
@@ -844,33 +844,33 @@
     },
     {
       "name": "Praia de Cortegaça",
-      "days": []
-    },
-    {
-      "name": "Praia de Labruge",
       "days": [
         {
           "date": "2026-08-17",
-          "temp_max": 30.5,
-          "temp_min": 20.7,
-          "wind_speed_10m_max": 13.2,
+          "temp_max": 29.6,
+          "temp_min": 21.2,
+          "wind_speed_10m_max": 9.8,
           "weather_code": 1
         },
         {
           "date": "2026-08-18",
-          "temp_max": 27.9,
-          "temp_min": 20.2,
-          "wind_speed_10m_max": 10.5,
-          "weather_code": 3
+          "temp_max": 28.8,
+          "temp_min": 20.0,
+          "wind_speed_10m_max": 9.8,
+          "weather_code": 2
         },
         {
           "date": "2026-08-19",
-          "temp_max": 23.6,
-          "temp_min": 20.5,
-          "wind_speed_10m_max": 15.8,
-          "weather_code": 3
+          "temp_max": 24.6,
+          "temp_min": 20.4,
+          "wind_speed_10m_max": 15.0,
+          "weather_code": 45
         }
       ]
+    },
+    {
+      "name": "Praia de Labruge",
+      "days": []
     },
     {
       "name": "Praia do Quião",
