@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-08-17T17:45:23.085528+01:00",
-  "generated_at_utc": "2026-08-17T16:45:23.085528+00:00",
+  "generated_at_local": "2026-08-17T21:43:14.541673+01:00",
+  "generated_at_utc": "2026-08-17T20:43:14.541673+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
@@ -238,29 +238,7 @@
     },
     {
       "name": "Praia do Molhe",
-      "days": [
-        {
-          "date": "2026-08-17",
-          "temp_max": 28.6,
-          "temp_min": 21.0,
-          "wind_speed_10m_max": 10.0,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-08-18",
-          "temp_max": 26.2,
-          "temp_min": 20.5,
-          "wind_speed_10m_max": 9.8,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-08-19",
-          "temp_max": 22.9,
-          "temp_min": 20.3,
-          "wind_speed_10m_max": 15.8,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Gondarém",
@@ -290,7 +268,29 @@
     },
     {
       "name": "Praia de Madalena Norte",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-17",
+          "temp_max": 32.1,
+          "temp_min": 21.4,
+          "wind_speed_10m_max": 10.7,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-08-18",
+          "temp_max": 28.7,
+          "temp_min": 21.2,
+          "wind_speed_10m_max": 10.3,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-08-19",
+          "temp_max": 24.0,
+          "temp_min": 20.6,
+          "wind_speed_10m_max": 15.5,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia dos Ingleses",
@@ -450,29 +450,7 @@
     },
     {
       "name": "Praia de Miramar",
-      "days": [
-        {
-          "date": "2026-08-17",
-          "temp_max": 29.5,
-          "temp_min": 21.3,
-          "wind_speed_10m_max": 11.4,
-          "weather_code": 0
-        },
-        {
-          "date": "2026-08-18",
-          "temp_max": 27.1,
-          "temp_min": 20.7,
-          "wind_speed_10m_max": 10.0,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-08-19",
-          "temp_max": 23.4,
-          "temp_min": 20.6,
-          "wind_speed_10m_max": 16.1,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia Azul",
@@ -580,7 +558,29 @@
     },
     {
       "name": "Praia de Árvore",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-17",
+          "temp_max": 27.6,
+          "temp_min": 19.8,
+          "wind_speed_10m_max": 14.9,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-08-18",
+          "temp_max": 26.1,
+          "temp_min": 18.9,
+          "wind_speed_10m_max": 9.2,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-08-19",
+          "temp_max": 22.9,
+          "temp_min": 20.2,
+          "wind_speed_10m_max": 14.6,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia da Lagoa",
@@ -688,29 +688,7 @@
     },
     {
       "name": "Praia de Esmoriz",
-      "days": [
-        {
-          "date": "2026-08-17",
-          "temp_max": 29.7,
-          "temp_min": 21.2,
-          "wind_speed_10m_max": 9.8,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-08-18",
-          "temp_max": 28.8,
-          "temp_min": 20.0,
-          "wind_speed_10m_max": 9.8,
-          "weather_code": 2
-        },
-        {
-          "date": "2026-08-19",
-          "temp_max": 24.6,
-          "temp_min": 20.4,
-          "wind_speed_10m_max": 15.0,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Paimó",
@@ -870,7 +848,29 @@
     },
     {
       "name": "Praia de Labruge",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-17",
+          "temp_max": 30.5,
+          "temp_min": 20.7,
+          "wind_speed_10m_max": 13.2,
+          "weather_code": 1
+        },
+        {
+          "date": "2026-08-18",
+          "temp_max": 27.9,
+          "temp_min": 20.2,
+          "wind_speed_10m_max": 10.5,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-08-19",
+          "temp_max": 23.6,
+          "temp_min": 20.5,
+          "wind_speed_10m_max": 15.8,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia do Quião",
@@ -926,29 +926,7 @@
     },
     {
       "name": "Praia do Furadouro",
-      "days": [
-        {
-          "date": "2026-08-17",
-          "temp_max": 29.3,
-          "temp_min": 19.9,
-          "wind_speed_10m_max": 11.6,
-          "weather_code": 1
-        },
-        {
-          "date": "2026-08-18",
-          "temp_max": 28.4,
-          "temp_min": 19.0,
-          "wind_speed_10m_max": 9.1,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-19",
-          "temp_max": 24.7,
-          "temp_min": 20.1,
-          "wind_speed_10m_max": 15.1,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Suave Mar",
@@ -1160,7 +1138,29 @@
     },
     {
       "name": "Praia de Afife",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-17",
+          "temp_max": 27.6,
+          "temp_min": 21.2,
+          "wind_speed_10m_max": 14.9,
+          "weather_code": 2
+        },
+        {
+          "date": "2026-08-18",
+          "temp_max": 26.7,
+          "temp_min": 21.0,
+          "wind_speed_10m_max": 9.2,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-08-19",
+          "temp_max": 22.7,
+          "temp_min": 19.6,
+          "wind_speed_10m_max": 14.8,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia da Costa Nova",
@@ -1190,29 +1190,7 @@
     },
     {
       "name": "Praia da Vagueira",
-      "days": [
-        {
-          "date": "2026-08-17",
-          "temp_max": 27.2,
-          "temp_min": 19.8,
-          "wind_speed_10m_max": 15.3,
-          "weather_code": 2
-        },
-        {
-          "date": "2026-08-18",
-          "temp_max": 25.6,
-          "temp_min": 18.4,
-          "wind_speed_10m_max": 11.9,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-19",
-          "temp_max": 24.2,
-          "temp_min": 20.2,
-          "wind_speed_10m_max": 17.2,
-          "weather_code": 3
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia do Areão",
