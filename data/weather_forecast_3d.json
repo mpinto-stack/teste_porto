@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-08-19T14:08:49.343258+01:00",
-  "generated_at_utc": "2026-08-19T13:08:49.343258+00:00",
+  "generated_at_local": "2026-08-19T17:47:34.379016+01:00",
+  "generated_at_utc": "2026-08-19T16:47:34.379016+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
@@ -502,29 +502,7 @@
     },
     {
       "name": "Praia da Aguda",
-      "days": [
-        {
-          "date": "2026-08-19",
-          "temp_max": 23.6,
-          "temp_min": 20.3,
-          "wind_speed_10m_max": 15.8,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-20",
-          "temp_max": 22.3,
-          "temp_min": 18.8,
-          "wind_speed_10m_max": 23.7,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-21",
-          "temp_max": 22.2,
-          "temp_min": 16.3,
-          "wind_speed_10m_max": 24.5,
-          "weather_code": 2
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Rua 37",
@@ -580,7 +558,29 @@
     },
     {
       "name": "Praia de Árvore",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-19",
+          "temp_max": 22.9,
+          "temp_min": 19.1,
+          "wind_speed_10m_max": 13.3,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-08-20",
+          "temp_max": 21.8,
+          "temp_min": 18.1,
+          "wind_speed_10m_max": 28.3,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-08-21",
+          "temp_max": 21.3,
+          "temp_min": 17.0,
+          "wind_speed_10m_max": 28.7,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia da Lagoa",
@@ -740,29 +740,7 @@
     },
     {
       "name": "Praia de Paramos",
-      "days": [
-        {
-          "date": "2026-08-19",
-          "temp_max": 24.5,
-          "temp_min": 20.6,
-          "wind_speed_10m_max": 14.3,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-20",
-          "temp_max": 22.1,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 20.1,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-21",
-          "temp_max": 22.1,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 21.0,
-          "weather_code": 2
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Valadares Sul",
@@ -896,7 +874,29 @@
     },
     {
       "name": "Praia do Quião",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-19",
+          "temp_max": 22.8,
+          "temp_min": 19.1,
+          "wind_speed_10m_max": 13.3,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-08-20",
+          "temp_max": 21.7,
+          "temp_min": 18.1,
+          "wind_speed_10m_max": 28.3,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-08-21",
+          "temp_max": 21.3,
+          "temp_min": 16.9,
+          "wind_speed_10m_max": 28.7,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia de Ofir",
@@ -978,29 +978,7 @@
     },
     {
       "name": "Praia do Torrão do Lameiro",
-      "days": [
-        {
-          "date": "2026-08-19",
-          "temp_max": 24.4,
-          "temp_min": 20.1,
-          "wind_speed_10m_max": 14.9,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-20",
-          "temp_max": 22.2,
-          "temp_min": 18.6,
-          "wind_speed_10m_max": 21.2,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-21",
-          "temp_max": 22.2,
-          "temp_min": 14.5,
-          "wind_speed_10m_max": 22.7,
-          "weather_code": 45
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia da Apúlia",
@@ -1160,7 +1138,29 @@
     },
     {
       "name": "Praia de Afife",
-      "days": []
+      "days": [
+        {
+          "date": "2026-08-19",
+          "temp_max": 21.8,
+          "temp_min": 19.0,
+          "wind_speed_10m_max": 13.6,
+          "weather_code": 3
+        },
+        {
+          "date": "2026-08-20",
+          "temp_max": 21.4,
+          "temp_min": 19.0,
+          "wind_speed_10m_max": 26.0,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-08-21",
+          "temp_max": 20.9,
+          "temp_min": 17.8,
+          "wind_speed_10m_max": 24.0,
+          "weather_code": 3
+        }
+      ]
     },
     {
       "name": "Praia da Costa Nova",
@@ -1294,29 +1294,7 @@
     },
     {
       "name": "Praia de Buarcos",
-      "days": [
-        {
-          "date": "2026-08-19",
-          "temp_max": 23.0,
-          "temp_min": 20.3,
-          "wind_speed_10m_max": 16.8,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-20",
-          "temp_max": 21.7,
-          "temp_min": 19.7,
-          "wind_speed_10m_max": 23.2,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-08-21",
-          "temp_max": 21.3,
-          "temp_min": 18.7,
-          "wind_speed_10m_max": 26.0,
-          "weather_code": 2
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Quiaios",
