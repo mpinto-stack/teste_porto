@@ -1,6 +1,6 @@
 {
-  "generated_at_local": "2026-09-06T13:09:34.260503+01:00",
-  "generated_at_utc": "2026-09-06T12:09:34.260503+00:00",
+  "generated_at_local": "2026-09-06T16:27:53.797642+01:00",
+  "generated_at_utc": "2026-09-06T15:27:53.797642+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
@@ -580,7 +580,29 @@
     },
     {
       "name": "Praia de Árvore",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-06",
+          "temp_max": 22.3,
+          "temp_min": 18.9,
+          "wind_speed_10m_max": 19.1,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-09-07",
+          "temp_max": 22.6,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 21.4,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-09-08",
+          "temp_max": 21.6,
+          "temp_min": 17.3,
+          "wind_speed_10m_max": 15.0,
+          "weather_code": 80
+        }
+      ]
     },
     {
       "name": "Praia da Lagoa",
@@ -610,29 +632,7 @@
     },
     {
       "name": "Praia de Mindelo",
-      "days": [
-        {
-          "date": "2026-09-06",
-          "temp_max": 22.3,
-          "temp_min": 18.9,
-          "wind_speed_10m_max": 19.1,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-09-07",
-          "temp_max": 22.6,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 21.4,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-09-08",
-          "temp_max": 21.6,
-          "temp_min": 17.3,
-          "wind_speed_10m_max": 15.0,
-          "weather_code": 80
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia Verde",
@@ -896,7 +896,29 @@
     },
     {
       "name": "Praia do Quião",
-      "days": []
+      "days": [
+        {
+          "date": "2026-09-06",
+          "temp_max": 22.3,
+          "temp_min": 18.8,
+          "wind_speed_10m_max": 19.1,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-09-07",
+          "temp_max": 22.5,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 21.4,
+          "weather_code": 45
+        },
+        {
+          "date": "2026-09-08",
+          "temp_max": 21.5,
+          "temp_min": 17.2,
+          "wind_speed_10m_max": 15.0,
+          "weather_code": 80
+        }
+      ]
     },
     {
       "name": "Praia de Ofir",
@@ -926,29 +948,7 @@
     },
     {
       "name": "Praia do Furadouro",
-      "days": [
-        {
-          "date": "2026-09-06",
-          "temp_max": 23.0,
-          "temp_min": 19.0,
-          "wind_speed_10m_max": 15.5,
-          "weather_code": 45
-        },
-        {
-          "date": "2026-09-07",
-          "temp_max": 23.3,
-          "temp_min": 16.6,
-          "wind_speed_10m_max": 15.6,
-          "weather_code": 3
-        },
-        {
-          "date": "2026-09-08",
-          "temp_max": 22.2,
-          "temp_min": 18.2,
-          "wind_speed_10m_max": 10.2,
-          "weather_code": 61
-        }
-      ]
+      "days": []
     },
     {
       "name": "Praia de Suave Mar",
@@ -1212,33 +1212,33 @@
     },
     {
       "name": "Praia da Vagueira",
+      "days": []
+    },
+    {
+      "name": "Praia do Areão",
       "days": [
         {
           "date": "2026-09-06",
-          "temp_max": 22.9,
+          "temp_max": 23.6,
           "temp_min": 19.5,
-          "wind_speed_10m_max": 18.3,
+          "wind_speed_10m_max": 17.4,
           "weather_code": 45
         },
         {
           "date": "2026-09-07",
-          "temp_max": 23.0,
-          "temp_min": 18.6,
-          "wind_speed_10m_max": 20.6,
+          "temp_max": 23.7,
+          "temp_min": 18.5,
+          "wind_speed_10m_max": 19.0,
           "weather_code": 3
         },
         {
           "date": "2026-09-08",
-          "temp_max": 22.2,
-          "temp_min": 18.9,
-          "wind_speed_10m_max": 13.8,
+          "temp_max": 22.9,
+          "temp_min": 18.8,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 61
         }
       ]
-    },
-    {
-      "name": "Praia do Areão",
-      "days": []
     },
     {
       "name": "Praia de Mira",
