@@ -1,29 +1,29 @@
 {
-  "generated_at_local": "2026-11-14T11:25:25.723040+00:00",
-  "generated_at_utc": "2026-11-14T11:25:25.723040+00:00",
+  "generated_at_local": "2026-11-14T17:57:29.826580+00:00",
+  "generated_at_utc": "2026-11-14T17:57:29.826580+00:00",
   "items": [
     {
       "name": "Praia de Lavadores",
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 17.3,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 16.9,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 10.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 21.3,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 21.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.5,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.2,
+          "temp_max": 18.4,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 30.5,
           "weather_code": 80
         }
       ]
@@ -33,23 +33,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.7,
+          "temp_max": 16.5,
           "temp_min": 15.0,
-          "wind_speed_10m_max": 13.4,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.1,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 25.1,
+          "temp_max": 17.0,
+          "temp_min": 15.2,
+          "wind_speed_10m_max": 25.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.0,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 37.1,
+          "temp_max": 17.9,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 38.9,
           "weather_code": 80
         }
       ]
@@ -59,23 +59,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
+          "temp_max": 16.7,
           "temp_min": 15.2,
-          "wind_speed_10m_max": 13.4,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 25.1,
+          "temp_max": 17.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 25.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 18.1,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 37.1,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 38.9,
           "weather_code": 80
         }
       ]
@@ -85,23 +85,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.8,
+          "temp_max": 16.6,
           "temp_min": 15.1,
-          "wind_speed_10m_max": 13.4,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.1,
-          "temp_min": 15.1,
-          "wind_speed_10m_max": 25.1,
+          "temp_max": 17.0,
+          "temp_min": 15.2,
+          "wind_speed_10m_max": 25.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 18.0,
-          "temp_min": 15.8,
-          "wind_speed_10m_max": 37.1,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 38.9,
           "weather_code": 80
         }
       ]
@@ -111,23 +111,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 17.3,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.0,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 10.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 21.3,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 21.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.5,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.2,
+          "temp_max": 18.4,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 30.5,
           "weather_code": 80
         }
       ]
@@ -137,23 +137,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
+          "temp_max": 16.7,
           "temp_min": 15.2,
-          "wind_speed_10m_max": 13.4,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 25.1,
+          "temp_max": 17.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 25.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 18.1,
-          "temp_min": 15.8,
-          "wind_speed_10m_max": 37.1,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 38.9,
           "weather_code": 80
         }
       ]
@@ -164,22 +164,22 @@
         {
           "date": "2026-11-14",
           "temp_max": 17.1,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 11.8,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 11.3,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 14.8,
-          "wind_speed_10m_max": 22.3,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 22.0,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.4,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.6,
+          "temp_max": 18.5,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 31.1,
           "weather_code": 80
         }
       ]
@@ -189,23 +189,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 17.2,
+          "temp_max": 16.9,
           "temp_min": 15.0,
-          "wind_speed_10m_max": 11.0,
+          "wind_speed_10m_max": 10.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
           "temp_min": 14.9,
-          "wind_speed_10m_max": 21.3,
+          "wind_speed_10m_max": 21.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 18.4,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.2,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 30.5,
           "weather_code": 80
         }
       ]
@@ -215,23 +215,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
+          "temp_max": 16.7,
           "temp_min": 15.2,
-          "wind_speed_10m_max": 13.4,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 25.1,
+          "temp_max": 17.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 25.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 18.1,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 37.1,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 38.9,
           "weather_code": 80
         }
       ]
@@ -241,23 +241,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 17.2,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 16.9,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 10.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 14.8,
-          "wind_speed_10m_max": 21.3,
+          "temp_max": 17.1,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 21.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 18.4,
-          "temp_min": 15.8,
-          "wind_speed_10m_max": 29.2,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 30.5,
           "weather_code": 80
         }
       ]
@@ -267,23 +267,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 17.3,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.0,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 10.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 21.3,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 21.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.5,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.2,
+          "temp_max": 18.4,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 30.5,
           "weather_code": 80
         }
       ]
@@ -294,22 +294,22 @@
         {
           "date": "2026-11-14",
           "temp_max": 17.1,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 11.8,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 11.3,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 14.8,
-          "wind_speed_10m_max": 22.3,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 22.0,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 18.4,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.6,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 31.1,
           "weather_code": 80
         }
       ]
@@ -319,23 +319,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 17.3,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.0,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 10.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 21.3,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 21.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.5,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.2,
+          "temp_max": 18.4,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 30.5,
           "weather_code": 80
         }
       ]
@@ -345,23 +345,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 17.3,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.0,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 10.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 21.3,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 21.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.5,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.2,
+          "temp_max": 18.4,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 30.5,
           "weather_code": 80
         }
       ]
@@ -371,23 +371,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
+          "temp_max": 16.7,
           "temp_min": 15.2,
-          "wind_speed_10m_max": 13.4,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 25.1,
+          "temp_max": 17.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 25.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 18.1,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 37.1,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 38.9,
           "weather_code": 80
         }
       ]
@@ -398,22 +398,22 @@
         {
           "date": "2026-11-14",
           "temp_max": 17.0,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 11.8,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 11.3,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.1,
-          "temp_min": 14.8,
-          "wind_speed_10m_max": 22.3,
+          "temp_max": 17.2,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 22.0,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.3,
-          "temp_min": 15.8,
-          "wind_speed_10m_max": 29.6,
+          "temp_max": 18.4,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 31.1,
           "weather_code": 80
         }
       ]
@@ -423,7 +423,7 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.7,
+          "temp_max": 16.3,
           "temp_min": 14.8,
           "wind_speed_10m_max": 12.0,
           "weather_code": 95
@@ -431,15 +431,15 @@
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 15.1,
-          "wind_speed_10m_max": 24.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 24.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 17.8,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 38.3,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 39.5,
           "weather_code": 80
         }
       ]
@@ -449,23 +449,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
-          "temp_min": 14.7,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.1,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 11.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.1,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 20.5,
+          "temp_max": 17.2,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 20.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.3,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 27.1,
+          "temp_max": 18.4,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 27.4,
           "weather_code": 80
         }
       ]
@@ -476,22 +476,22 @@
         {
           "date": "2026-11-14",
           "temp_max": 17.1,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 11.8,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 11.3,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 14.8,
-          "wind_speed_10m_max": 22.3,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 22.0,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.4,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.6,
+          "temp_max": 18.5,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 31.1,
           "weather_code": 80
         }
       ]
@@ -501,23 +501,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.8,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.1,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 11.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.1,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 20.5,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 20.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.3,
-          "temp_min": 15.6,
-          "wind_speed_10m_max": 27.1,
+          "temp_max": 18.4,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 27.4,
           "weather_code": 80
         }
       ]
@@ -528,22 +528,22 @@
         {
           "date": "2026-11-14",
           "temp_max": 17.1,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 11.8,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 11.3,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 14.8,
-          "wind_speed_10m_max": 22.3,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 22.0,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.4,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 29.6,
+          "temp_max": 18.5,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 31.1,
           "weather_code": 80
         }
       ]
@@ -553,23 +553,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.8,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.1,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 11.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.1,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 20.5,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 20.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.3,
-          "temp_min": 15.6,
-          "wind_speed_10m_max": 27.1,
+          "temp_max": 18.4,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 27.4,
           "weather_code": 80
         }
       ]
@@ -579,23 +579,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
+          "temp_max": 16.7,
           "temp_min": 15.2,
-          "wind_speed_10m_max": 13.4,
+          "wind_speed_10m_max": 13.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 25.1,
+          "temp_max": 17.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 25.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 18.1,
-          "temp_min": 15.9,
-          "wind_speed_10m_max": 37.1,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 38.9,
           "weather_code": 80
         }
       ]
@@ -605,7 +605,7 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.7,
+          "temp_max": 16.4,
           "temp_min": 14.8,
           "wind_speed_10m_max": 12.0,
           "weather_code": 95
@@ -613,15 +613,15 @@
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 24.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 24.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 17.9,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 38.3,
+          "temp_max": 17.8,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 39.5,
           "weather_code": 80
         }
       ]
@@ -631,23 +631,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.8,
+          "temp_max": 16.5,
           "temp_min": 14.7,
-          "wind_speed_10m_max": 11.0,
+          "wind_speed_10m_max": 11.2,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 15.0,
+          "temp_max": 17.3,
+          "temp_min": 14.9,
           "wind_speed_10m_max": 22.8,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 17.9,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 37.2,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 38.4,
           "weather_code": 80
         }
       ]
@@ -657,7 +657,7 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.7,
+          "temp_max": 16.4,
           "temp_min": 14.8,
           "wind_speed_10m_max": 12.0,
           "weather_code": 95
@@ -665,15 +665,15 @@
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 24.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 24.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 17.9,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 38.3,
+          "temp_max": 17.8,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 39.5,
           "weather_code": 80
         }
       ]
@@ -683,23 +683,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.8,
+          "temp_max": 16.5,
           "temp_min": 14.7,
-          "wind_speed_10m_max": 11.0,
+          "wind_speed_10m_max": 11.2,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 15.0,
+          "temp_max": 17.3,
+          "temp_min": 14.9,
           "wind_speed_10m_max": 22.8,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 17.9,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 37.2,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 38.4,
           "weather_code": 80
         }
       ]
@@ -709,23 +709,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
-          "temp_min": 14.7,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.1,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 11.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.1,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 20.5,
+          "temp_max": 17.2,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 20.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.3,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 27.1,
+          "temp_max": 18.4,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 27.4,
           "weather_code": 80
         }
       ]
@@ -735,7 +735,7 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.6,
+          "temp_max": 16.8,
           "temp_min": 14.5,
           "wind_speed_10m_max": 9.7,
           "weather_code": 95
@@ -743,15 +743,15 @@
         {
           "date": "2026-11-15",
           "temp_max": 17.1,
-          "temp_min": 14.5,
-          "wind_speed_10m_max": 17.1,
+          "temp_min": 14.6,
+          "wind_speed_10m_max": 17.4,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.0,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 24.1,
+          "temp_max": 18.3,
+          "temp_min": 15.8,
+          "wind_speed_10m_max": 24.3,
           "weather_code": 80
         }
       ]
@@ -761,14 +761,14 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.8,
+          "temp_max": 16.5,
           "temp_min": 14.7,
-          "wind_speed_10m_max": 11.0,
+          "wind_speed_10m_max": 11.2,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.1,
+          "temp_max": 17.3,
           "temp_min": 14.9,
           "wind_speed_10m_max": 22.8,
           "weather_code": 95
@@ -776,8 +776,8 @@
         {
           "date": "2026-11-16",
           "temp_max": 17.9,
-          "temp_min": 15.6,
-          "wind_speed_10m_max": 37.2,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 38.4,
           "weather_code": 80
         }
       ]
@@ -787,23 +787,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
-          "temp_min": 14.7,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.1,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 11.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.1,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 20.5,
+          "temp_max": 17.2,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 20.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.3,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 27.1,
+          "temp_max": 18.4,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 27.4,
           "weather_code": 80
         }
       ]
@@ -813,23 +813,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
-          "temp_min": 14.7,
-          "wind_speed_10m_max": 11.0,
+          "temp_max": 17.1,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 11.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.1,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 20.5,
+          "temp_max": 17.2,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 20.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.3,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 27.1,
+          "temp_max": 18.4,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 27.4,
           "weather_code": 80
         }
       ]
@@ -839,7 +839,7 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.7,
+          "temp_max": 16.4,
           "temp_min": 14.8,
           "wind_speed_10m_max": 12.0,
           "weather_code": 95
@@ -847,15 +847,15 @@
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 24.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 24.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 17.8,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 38.3,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 39.5,
           "weather_code": 80
         }
       ]
@@ -865,23 +865,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.9,
+          "temp_max": 16.5,
           "temp_min": 14.7,
-          "wind_speed_10m_max": 11.0,
+          "wind_speed_10m_max": 11.2,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 15.0,
+          "temp_max": 17.4,
+          "temp_min": 14.9,
           "wind_speed_10m_max": 22.8,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 17.9,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 37.2,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 38.4,
           "weather_code": 80
         }
       ]
@@ -891,8 +891,8 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.6,
-          "temp_min": 14.4,
+          "temp_max": 16.8,
+          "temp_min": 14.5,
           "wind_speed_10m_max": 9.7,
           "weather_code": 95
         },
@@ -900,14 +900,14 @@
           "date": "2026-11-15",
           "temp_max": 17.0,
           "temp_min": 14.5,
-          "wind_speed_10m_max": 17.1,
+          "wind_speed_10m_max": 17.4,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.0,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 24.1,
+          "temp_max": 18.2,
+          "temp_min": 15.7,
+          "wind_speed_10m_max": 24.3,
           "weather_code": 80
         }
       ]
@@ -917,7 +917,7 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.7,
+          "temp_max": 16.4,
           "temp_min": 14.8,
           "wind_speed_10m_max": 12.0,
           "weather_code": 95
@@ -925,15 +925,15 @@
         {
           "date": "2026-11-15",
           "temp_max": 17.2,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 24.1,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 24.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 17.9,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 38.3,
+          "temp_max": 17.8,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 39.5,
           "weather_code": 80
         }
       ]
@@ -943,23 +943,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.8,
+          "temp_max": 16.5,
           "temp_min": 14.7,
-          "wind_speed_10m_max": 11.0,
+          "wind_speed_10m_max": 11.2,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.2,
-          "temp_min": 15.0,
+          "temp_max": 17.3,
+          "temp_min": 14.9,
           "wind_speed_10m_max": 22.8,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 17.9,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 37.2,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 38.4,
           "weather_code": 80
         }
       ]
@@ -969,23 +969,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.4,
+          "temp_max": 16.2,
           "temp_min": 14.8,
-          "wind_speed_10m_max": 10.1,
+          "wind_speed_10m_max": 11.2,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 16.7,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 23.0,
+          "temp_max": 16.9,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 22.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 17.7,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 37.4,
+          "temp_max": 17.6,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 38.1,
           "weather_code": 80
         }
       ]
@@ -995,23 +995,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.6,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 11.5,
+          "temp_max": 16.8,
+          "temp_min": 14.7,
+          "wind_speed_10m_max": 11.8,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.0,
           "temp_min": 14.7,
-          "wind_speed_10m_max": 20.7,
+          "wind_speed_10m_max": 21.0,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.1,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 27.8,
+          "temp_max": 18.5,
+          "temp_min": 15.8,
+          "wind_speed_10m_max": 28.3,
           "weather_code": 80
         }
       ]
@@ -1021,23 +1021,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.4,
+          "temp_max": 16.2,
           "temp_min": 14.8,
-          "wind_speed_10m_max": 10.1,
+          "wind_speed_10m_max": 11.2,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 16.7,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 23.0,
+          "temp_max": 16.9,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 22.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 17.7,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 37.4,
+          "temp_max": 17.6,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 38.1,
           "weather_code": 80
         }
       ]
@@ -1047,23 +1047,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.8,
-          "temp_min": 14.7,
+          "temp_max": 17.0,
+          "temp_min": 14.8,
           "wind_speed_10m_max": 10.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.1,
+          "temp_max": 17.2,
           "temp_min": 14.7,
-          "wind_speed_10m_max": 19.3,
+          "wind_speed_10m_max": 20.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.1,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 25.0,
+          "temp_max": 18.7,
+          "temp_min": 15.8,
+          "wind_speed_10m_max": 26.9,
           "weather_code": 80
         }
       ]
@@ -1073,23 +1073,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.5,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 10.2,
+          "temp_max": 16.4,
+          "temp_min": 14.5,
+          "wind_speed_10m_max": 12.0,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 16.8,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 23.6,
+          "temp_max": 17.0,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 22.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
           "temp_max": 17.7,
-          "temp_min": 15.6,
-          "wind_speed_10m_max": 38.1,
+          "temp_min": 16.0,
+          "wind_speed_10m_max": 39.6,
           "weather_code": 80
         }
       ]
@@ -1099,23 +1099,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.7,
+          "temp_max": 16.4,
           "temp_min": 14.5,
-          "wind_speed_10m_max": 10.2,
+          "wind_speed_10m_max": 9.8,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 16.8,
+          "temp_max": 17.1,
           "temp_min": 15.0,
-          "wind_speed_10m_max": 22.0,
+          "wind_speed_10m_max": 21.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 17.6,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 37.4,
+          "temp_max": 17.7,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 39.4,
           "weather_code": 80
         }
       ]
@@ -1125,23 +1125,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.3,
+          "temp_max": 16.1,
           "temp_min": 14.8,
-          "wind_speed_10m_max": 12.5,
+          "wind_speed_10m_max": 12.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 16.8,
-          "temp_min": 15.7,
+          "temp_max": 17.0,
+          "temp_min": 15.8,
           "wind_speed_10m_max": 25.3,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 17.5,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 40.5,
+          "temp_max": 17.7,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 42.6,
           "weather_code": 80
         }
       ]
@@ -1151,24 +1151,24 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 17.1,
-          "temp_min": 14.5,
+          "temp_max": 17.2,
+          "temp_min": 14.6,
           "wind_speed_10m_max": 12.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.5,
-          "temp_min": 14.6,
-          "wind_speed_10m_max": 17.8,
+          "temp_max": 17.7,
+          "temp_min": 14.8,
+          "wind_speed_10m_max": 17.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.6,
-          "temp_min": 15.5,
-          "wind_speed_10m_max": 24.5,
-          "weather_code": 61
+          "temp_max": 19.3,
+          "temp_min": 15.6,
+          "wind_speed_10m_max": 25.2,
+          "weather_code": 80
         }
       ]
     },
@@ -1177,24 +1177,24 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 17.1,
-          "temp_min": 14.5,
+          "temp_max": 17.2,
+          "temp_min": 14.7,
           "wind_speed_10m_max": 12.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.5,
-          "temp_min": 14.7,
-          "wind_speed_10m_max": 17.8,
+          "temp_max": 17.7,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 17.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.7,
+          "temp_max": 19.4,
           "temp_min": 15.6,
-          "wind_speed_10m_max": 24.5,
-          "weather_code": 61
+          "wind_speed_10m_max": 25.2,
+          "weather_code": 80
         }
       ]
     },
@@ -1203,23 +1203,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.3,
+          "temp_max": 16.1,
           "temp_min": 14.8,
-          "wind_speed_10m_max": 12.5,
+          "wind_speed_10m_max": 12.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 16.8,
-          "temp_min": 15.7,
+          "temp_max": 17.0,
+          "temp_min": 15.8,
           "wind_speed_10m_max": 25.3,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 17.5,
-          "temp_min": 16.0,
-          "wind_speed_10m_max": 40.5,
+          "temp_max": 17.7,
+          "temp_min": 16.1,
+          "wind_speed_10m_max": 42.6,
           "weather_code": 80
         }
       ]
@@ -1229,23 +1229,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.1,
+          "temp_max": 15.9,
           "temp_min": 14.7,
-          "wind_speed_10m_max": 14.3,
+          "wind_speed_10m_max": 14.1,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 16.6,
-          "temp_min": 15.7,
-          "wind_speed_10m_max": 25.1,
+          "temp_max": 16.8,
+          "temp_min": 15.9,
+          "wind_speed_10m_max": 25.2,
           "weather_code": 95
         },
         {
           "date": "2026-11-16",
-          "temp_max": 17.7,
+          "temp_max": 17.8,
           "temp_min": 16.3,
-          "wind_speed_10m_max": 43.2,
+          "wind_speed_10m_max": 44.3,
           "weather_code": 80
         }
       ]
@@ -1255,24 +1255,24 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.7,
-          "temp_min": 14.2,
+          "temp_max": 17.0,
+          "temp_min": 14.3,
           "wind_speed_10m_max": 12.6,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
           "temp_max": 17.5,
-          "temp_min": 14.4,
-          "wind_speed_10m_max": 18.3,
+          "temp_min": 14.5,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 80
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.6,
+          "temp_max": 19.1,
           "temp_min": 15.3,
-          "wind_speed_10m_max": 22.8,
-          "weather_code": 61
+          "wind_speed_10m_max": 24.1,
+          "weather_code": 80
         }
       ]
     },
@@ -1281,24 +1281,24 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.8,
-          "temp_min": 14.2,
+          "temp_max": 17.0,
+          "temp_min": 14.4,
           "wind_speed_10m_max": 12.6,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.5,
-          "temp_min": 14.4,
-          "wind_speed_10m_max": 18.3,
+          "temp_max": 17.6,
+          "temp_min": 14.6,
+          "wind_speed_10m_max": 16.8,
           "weather_code": 80
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.6,
-          "temp_min": 15.3,
-          "wind_speed_10m_max": 22.8,
-          "weather_code": 61
+          "temp_max": 19.1,
+          "temp_min": 15.4,
+          "wind_speed_10m_max": 24.1,
+          "weather_code": 80
         }
       ]
     },
@@ -1307,23 +1307,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.7,
-          "temp_min": 14.3,
+          "temp_max": 16.9,
+          "temp_min": 14.5,
           "wind_speed_10m_max": 14.0,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.4,
-          "temp_min": 14.5,
-          "wind_speed_10m_max": 19.4,
+          "temp_max": 17.7,
+          "temp_min": 14.6,
+          "wind_speed_10m_max": 18.3,
           "weather_code": 80
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.8,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 24.6,
+          "temp_max": 19.2,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 24.9,
           "weather_code": 61
         }
       ]
@@ -1333,23 +1333,23 @@
       "days": [
         {
           "date": "2026-11-14",
-          "temp_max": 16.6,
-          "temp_min": 14.3,
+          "temp_max": 16.9,
+          "temp_min": 14.5,
           "wind_speed_10m_max": 14.0,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.4,
-          "temp_min": 14.4,
-          "wind_speed_10m_max": 19.4,
+          "temp_max": 17.6,
+          "temp_min": 14.6,
+          "wind_speed_10m_max": 18.3,
           "weather_code": 80
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.8,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 24.6,
+          "temp_max": 19.1,
+          "temp_min": 15.4,
+          "wind_speed_10m_max": 24.9,
           "weather_code": 61
         }
       ]
@@ -1360,22 +1360,22 @@
         {
           "date": "2026-11-14",
           "temp_max": 16.8,
-          "temp_min": 14.8,
+          "temp_min": 14.9,
           "wind_speed_10m_max": 13.9,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.4,
-          "temp_min": 14.7,
-          "wind_speed_10m_max": 16.3,
-          "weather_code": 95
+          "temp_max": 17.8,
+          "temp_min": 15.0,
+          "wind_speed_10m_max": 17.7,
+          "weather_code": 80
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.8,
-          "temp_min": 15.3,
-          "wind_speed_10m_max": 23.1,
+          "temp_max": 19.1,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 23.8,
           "weather_code": 61
         }
       ]
@@ -1386,22 +1386,22 @@
         {
           "date": "2026-11-14",
           "temp_max": 17.1,
-          "temp_min": 14.8,
+          "temp_min": 14.7,
           "wind_speed_10m_max": 14.3,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.7,
-          "temp_min": 14.7,
-          "wind_speed_10m_max": 14.8,
+          "temp_max": 18.0,
+          "temp_min": 14.9,
+          "wind_speed_10m_max": 18.9,
           "weather_code": 80
         },
         {
           "date": "2026-11-16",
-          "temp_max": 19.3,
-          "temp_min": 15.0,
-          "wind_speed_10m_max": 20.5,
+          "temp_max": 19.7,
+          "temp_min": 15.3,
+          "wind_speed_10m_max": 20.3,
           "weather_code": 61
         }
       ]
@@ -1412,22 +1412,22 @@
         {
           "date": "2026-11-14",
           "temp_max": 16.8,
-          "temp_min": 14.8,
+          "temp_min": 15.0,
           "wind_speed_10m_max": 14.7,
           "weather_code": 95
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.5,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 16.9,
+          "temp_max": 17.8,
+          "temp_min": 15.2,
+          "wind_speed_10m_max": 19.2,
           "weather_code": 80
         },
         {
           "date": "2026-11-16",
-          "temp_max": 18.9,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 24.2,
+          "temp_max": 19.2,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 24.8,
           "weather_code": 61
         }
       ]
@@ -1444,16 +1444,16 @@
         },
         {
           "date": "2026-11-15",
-          "temp_max": 17.9,
-          "temp_min": 14.9,
-          "wind_speed_10m_max": 14.8,
+          "temp_max": 18.1,
+          "temp_min": 15.1,
+          "wind_speed_10m_max": 18.9,
           "weather_code": 80
         },
         {
           "date": "2026-11-16",
-          "temp_max": 19.4,
-          "temp_min": 15.2,
-          "wind_speed_10m_max": 20.5,
+          "temp_max": 19.8,
+          "temp_min": 15.5,
+          "wind_speed_10m_max": 20.3,
           "weather_code": 61
         }
       ]
